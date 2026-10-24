@@ -1,0 +1,162 @@
+season,team_raw,stadium,capacity,location,source_url
+2018-19,Arsenal,Emirates Stadium,60260,London ( Holloway ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Bournemouth,Dean Court,11329,Bournemouth,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Brighton & Hove Albion,Falmer Stadium,30666,Falmer,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Burnley,Turf Moor,21944,Burnley,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Cardiff City,Cardiff City Stadium,33316,Cardiff,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Chelsea,Stamford Bridge,40853,London ( Fulham ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Crystal Palace,Selhurst Park,26074,London ( Selhurst ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Everton,Goodison Park,39221,Liverpool ( Walton ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Fulham,Craven Cottage,25700,London (Fulham),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Huddersfield Town,Kirklees Stadium,24121,Huddersfield,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Leicester City,King Power Stadium,32273,Leicester,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Liverpool,Anfield,54074,Liverpool ( Anfield ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Manchester City,City of Manchester Stadium,55017,Manchester ( Bradford ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Manchester United,Old Trafford,74879,Manchester ( Old Trafford ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Newcastle United,St James' Park,52354,Newcastle upon Tyne,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Southampton,St Mary's Stadium,32384,Southampton,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Tottenham Hotspur,Wembley Stadium,90000,London ( Wembley ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Tottenham Hotspur,Tottenham Hotspur Stadium,62062,London ( Tottenham ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Watford,Vicarage Road,20400,Watford,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,West Ham United,London Stadium,60000,London ( Stratford ),https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Wolverhampton Wanderers,Molineux Stadium,32050,Wolverhampton,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2019-20,Arsenal,Emirates Stadium,60704,London ( Holloway ),https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Aston Villa,Villa Park,42785,Birmingham,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Bournemouth,Dean Court,11329,Bournemouth,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Brighton & Hove Albion,Falmer Stadium,30750,Falmer,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Burnley,Turf Moor,21944,Burnley,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Chelsea,Stamford Bridge,40834,London ( Fulham ),https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Crystal Palace,Selhurst Park,25486,London ( Selhurst ),https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Everton,Goodison Park,39414,Liverpool ( Walton ),https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Leicester City,King Power Stadium,32243,Leicester,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Liverpool,Anfield,53394,Liverpool ( Anfield ),https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Manchester City,City of Manchester Stadium,55097,Manchester ( Bradford ),https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Manchester United,Old Trafford,74879,Trafford ( Old Trafford ),https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Newcastle United,St James' Park,52388,Newcastle upon Tyne,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Norwich City,Carrow Road,27244,Norwich,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Sheffield United,Bramall Lane,32125,Sheffield,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Southampton,St Mary's Stadium,32505,Southampton,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Tottenham Hotspur,Tottenham Hotspur Stadium,62303,London ( Tottenham ),https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Watford,Vicarage Road,22220,Watford,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,West Ham United,London Stadium,60000,London ( Stratford ),https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Wolverhampton Wanderers,Molineux Stadium,32050,Wolverhampton,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2020-21,Arsenal,Emirates Stadium,60704,London ( Holloway ),https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Aston Villa,Villa Park,42682,Birmingham,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Brighton & Hove Albion,Falmer Stadium,30750,Falmer,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Burnley,Turf Moor,21944,Burnley,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Chelsea,Stamford Bridge,40834,London ( Fulham ),https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Crystal Palace,Selhurst Park,25486,London ( Selhurst ),https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Everton,Goodison Park,39414,Liverpool ( Walton ),https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Fulham,Craven Cottage,19359,London (Fulham),https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Leeds United,Elland Road,37792,Leeds,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Leicester City,King Power Stadium,32261,Leicester,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Liverpool,Anfield,53394,Liverpool ( Anfield ),https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Manchester City,City of Manchester Stadium,55017,Manchester ( Bradford ),https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Manchester United,Old Trafford,74140,Trafford,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Newcastle United,St James' Park,52305,Newcastle upon Tyne,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Sheffield United,Bramall Lane,32050,Sheffield,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Southampton,St Mary's Stadium,32384,Southampton,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Tottenham Hotspur,Tottenham Hotspur Stadium,62303,London ( Tottenham ),https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,West Bromwich Albion,The Hawthorns,26688,West Bromwich,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,West Ham United,London Stadium,60000,London ( Stratford ),https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Wolverhampton Wanderers,Molineux Stadium,32050,Wolverhampton,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2021-22,Arsenal,Emirates Stadium,60704,London ( Holloway ),https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Aston Villa,Villa Park,42682,Birmingham,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Brentford,Brentford Community Stadium,17250,London ( Brentford ),https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Brighton & Hove Albion,Falmer Stadium,31800,Falmer,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Burnley,Turf Moor,21944,Burnley,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Chelsea,Stamford Bridge,40834,London ( Fulham ),https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Crystal Palace,Selhurst Park,25486,London ( Selhurst ),https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Everton,Goodison Park,39414,Liverpool ( Walton ),https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Leeds United,Elland Road,37792,Leeds,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Leicester City,King Power Stadium,32312,Leicester,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Liverpool,Anfield,53394,Liverpool ( Anfield ),https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Manchester City,City of Manchester Stadium,53400,Manchester ( Bradford ),https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Manchester United,Old Trafford,74140,Trafford,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Newcastle United,St James' Park,52305,Newcastle upon Tyne,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Norwich City,Carrow Road,27244,Norwich,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Southampton,St Mary's Stadium,32384,Southampton,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Tottenham Hotspur,Tottenham Hotspur Stadium,62850,London ( Tottenham ),https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Watford,Vicarage Road,22200,Watford,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,West Ham United,London Stadium,60000,London ( Stratford ),https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Wolverhampton Wanderers,Molineux Stadium,32050,Wolverhampton,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2022-23,Arsenal,Emirates Stadium,60704,London ( Holloway ),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Aston Villa,Villa Park,42657,Birmingham,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Bournemouth,Dean Court,11307,Bournemouth,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Brentford,Brentford Community Stadium,17250,London ( Brentford ),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Brighton & Hove Albion,Falmer Stadium,31780,Falmer,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Chelsea,Stamford Bridge,40343,London ( Fulham ),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Crystal Palace,Selhurst Park,25486,London ( Selhurst ),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Everton,Goodison Park,39414,Liverpool ( Walton ),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Fulham,Craven Cottage,22384,London (Fulham),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Leeds United,Elland Road,37608,Leeds,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Leicester City,King Power Stadium,32262,Leicester,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Liverpool,Anfield,53394,Liverpool ( Anfield ),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Manchester City,City of Manchester Stadium,53400,Manchester (Eastlands),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Manchester United,Old Trafford,74310,Manchester ( Old Trafford ),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Newcastle United,St James' Park,52305,Newcastle upon Tyne,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Nottingham Forest,City Ground,30332,West Bridgford,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Southampton,St Mary's Stadium,32384,Southampton,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Tottenham Hotspur,Tottenham Hotspur Stadium,62850,London ( Tottenham ),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,West Ham United,London Stadium,62500,London ( Stratford ),https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Wolverhampton Wanderers,Molineux Stadium,31750,Wolverhampton,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2023-24,Arsenal,Emirates Stadium,60704,London ( Holloway ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Aston Villa,Villa Park,42657,Birmingham,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Bournemouth,Dean Court,11307,Bournemouth,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Brentford,Brentford Community Stadium,17250,London ( Brentford ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Brighton & Hove Albion,Falmer Stadium,31876,Falmer,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Burnley,Turf Moor,21944,Burnley,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Chelsea,Stamford Bridge,40173,London ( Fulham ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Crystal Palace,Selhurst Park,25486,London ( Selhurst ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Everton,Goodison Park,39414,Liverpool ( Walton ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Fulham,Craven Cottage,24500,London (Fulham),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Liverpool,Anfield,61276,Liverpool ( Anfield ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Luton Town,Kenilworth Road,12000,Luton,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Manchester City,City of Manchester Stadium,53400,Manchester ( Bradford ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Manchester United,Old Trafford,74031,Manchester ( Old Trafford ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Newcastle United,St James' Park,52257,Newcastle upon Tyne,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Nottingham Forest,City Ground,30404,West Bridgford,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Sheffield United,Bramall Lane,32050,Sheffield,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Tottenham Hotspur,Tottenham Hotspur Stadium,62850,London ( Tottenham ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,West Ham United,London Stadium,62500,London ( Stratford ),https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Wolverhampton Wanderers,Molineux Stadium,31750,Wolverhampton,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2024-25,Arsenal,Emirates Stadium,60704,London ( Holloway ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Aston Villa,Villa Park,42918,Birmingham,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Bournemouth,Dean Court,11307,Bournemouth,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Brentford,Brentford Community Stadium,17250,London ( Brentford ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Brighton & Hove Albion,Falmer Stadium,31876,Falmer,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Chelsea,Stamford Bridge,40173,London ( Fulham ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Crystal Palace,Selhurst Park,25194,London ( Selhurst ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Everton,Goodison Park,39414,Liverpool ( Walton ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Fulham,Craven Cottage,24500,London (Fulham),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Ipswich Town,Portman Road,30056,Ipswich,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Leicester City,King Power Stadium,32259,Leicester,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Liverpool,Anfield,61276,Liverpool ( Anfield ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Manchester City,City of Manchester Stadium,52900,Manchester ( Bradford ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Manchester United,Old Trafford,74197,Manchester ( Old Trafford ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Newcastle United,St James' Park,52258,Newcastle upon Tyne,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Nottingham Forest,City Ground,31042,West Bridgford,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Southampton,St Mary's Stadium,32384,Southampton,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Tottenham Hotspur,Tottenham Hotspur Stadium,62850,London ( Tottenham ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,West Ham United,London Stadium,62500,London ( Stratford ),https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Wolverhampton Wanderers,Molineux Stadium,31750,Wolverhampton,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2025-26,Arsenal,Emirates Stadium,60704,London ( Holloway ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Aston Villa,Villa Park,43205,Birmingham,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Bournemouth,Dean Court,11307,Bournemouth,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Brentford,Brentford Community Stadium,17250,London ( Brentford ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Brighton & Hove Albion,Falmer Stadium,31876,Falmer,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Burnley,Turf Moor,21990,Burnley,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Chelsea,Stamford Bridge,40044,London ( Fulham ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Crystal Palace,Selhurst Park,25194,London ( Selhurst ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Everton,Hill Dickinson Stadium,52769,Liverpool ( Vauxhall ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Fulham,Craven Cottage,28800,London (Fulham),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Leeds United,Elland Road,37645,Leeds,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Liverpool,Anfield,61276,Liverpool ( Anfield ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Manchester City,City of Manchester Stadium,52900,Manchester ( Bradford ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Manchester United,Old Trafford,74244,Manchester ( Old Trafford ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Newcastle United,St James' Park,52264,Newcastle upon Tyne,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Nottingham Forest,City Ground,31042,West Bridgford,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Sunderland,Stadium of Light,48707,Sunderland,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Tottenham Hotspur,Tottenham Hotspur Stadium,62850,London ( Tottenham ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,West Ham United,London Stadium,62500,London ( Stratford ),https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Wolverhampton Wanderers,Molineux Stadium,31750,Wolverhampton,https://en.wikipedia.org/wiki/2025–26_Premier_League

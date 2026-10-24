@@ -1,0 +1,59 @@
+{
+  "total_matches": 3040,
+  "split_strategy": "Chronological by Intact Seasons (Strictly Out-of-Time, No Random Shuffle)",
+  "splits": {
+    "train": {
+      "seasons": [
+        "2018-19",
+        "2019-20",
+        "2020-21",
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ],
+      "match_count": 2280,
+      "percentage": 75.0,
+      "date_range": [
+        "2018-08-10",
+        "2024-05-19"
+      ],
+      "label_distribution": {
+        "H": 0.447,
+        "A": 0.332,
+        "D": 0.221
+      }
+    },
+    "validation": {
+      "seasons": [
+        "2024-25"
+      ],
+      "match_count": 380,
+      "percentage": 12.5,
+      "date_range": [
+        "2024-08-16",
+        "2025-05-25"
+      ],
+      "label_distribution": {
+        "H": 0.408,
+        "A": 0.347,
+        "D": 0.245
+      }
+    },
+    "test": {
+      "seasons": [
+        "2025-26"
+      ],
+      "match_count": 380,
+      "percentage": 12.5,
+      "date_range": [
+        "2025-08-15",
+        "2026-05-24"
+      ],
+      "label_distribution": {
+        "H": 0.426,
+        "A": 0.3,
+        "D": 0.274
+      }
+    }
+  }
+}

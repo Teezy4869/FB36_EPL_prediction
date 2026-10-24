@@ -1,0 +1,203 @@
+{
+  "phase": "06/08",
+  "status": "ready_for_phase_07",
+  "feature_columns": [
+    "home_matches_available_last_5",
+    "away_matches_available_last_5",
+    "home_points_avg_last_5",
+    "away_points_avg_last_5",
+    "home_goal_diff_last_5",
+    "away_goal_diff_last_5",
+    "home_days_since_last_match",
+    "away_days_since_last_match",
+    "home_matches_last_7_days",
+    "away_matches_last_7_days",
+    "is_promoted_home",
+    "is_promoted_away"
+  ],
+  "label_order": [
+    "H",
+    "D",
+    "A"
+  ],
+  "pipeline_steps": [
+    "schema",
+    "imputer",
+    "classifier"
+  ],
+  "imputer_strategy": "median",
+  "rf_explicit_params": {
+    "n_estimators": 100,
+    "max_depth": 8,
+    "min_samples_leaf": 5,
+    "random_state": 42,
+    "n_jobs": -1
+  },
+  "rf_other_params": "scikit-learn defaults",
+  "seed": 42,
+  "seasons": {
+    "train": [
+      "2018-19",
+      "2019-20",
+      "2020-21",
+      "2021-22",
+      "2022-23",
+      "2023-24"
+    ],
+    "validation": [
+      "2024-25"
+    ],
+    "test": [
+      "2025-26"
+    ]
+  },
+  "row_counts": {
+    "train": 2280,
+    "validation": 380,
+    "test": 380
+  },
+  "versions": {
+    "python": "3.12.10",
+    "scikit_learn": "1.9.1",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "joblib": "1.6.0"
+  },
+  "sha256": {
+    "input": {
+      "prematch_features.csv": "44fb34abebf74bdcdfd30b9ab8c0dd04f2351da503025bee532311f301203083",
+      "split_manifest.csv": "3b9efe26c0051d86a8f350355985478c702aad7c410228a34fe6ad1ed4851f6a"
+    },
+    "train_model": "e927ca62578e2ad4286e2b740318a57e0c65c6953922a92b604a98566ed78146",
+    "train_metadata": "6c45275d5bec1d517b837b1a30c396dc9fc3fec48fd664afd08a66cccd98b399",
+    "baseline_predictions": "817632c40b0d7922c3d82afdabca120ddb00332d15d85d9decd0f19f7cb5e47b",
+    "validation_predictions": "5b4630900e6fe2cc55492b840252a7586ba906167ba3a87f12d4e290643dd35a"
+  },
+  "evaluation_rules": {
+    "primary_metric": "macro_f1",
+    "secondary_metric": "accuracy",
+    "per_class_metrics": [
+      "precision",
+      "recall",
+      "f1",
+      "support"
+    ],
+    "zero_division": 0,
+    "confusion_matrix_rows": "true H,D,A",
+    "confusion_matrix_columns": "predicted H,D,A",
+    "prediction_label_rule": "argmax predict_proba in saved model class order",
+    "probability_output_order": [
+      "H",
+      "D",
+      "A"
+    ],
+    "probabilities_calibrated": false,
+    "test_evaluation": "once, after refit of same pipeline on train+validation",
+    "no_tuning_after_validation": true
+  },
+  "validation_results": {
+    "random_forest": {
+      "macro_f1": 0.37772524297346993,
+      "accuracy": 0.5078947368421053,
+      "precision": {
+        "H": 0.48507462686567165,
+        "D": 0.0,
+        "A": 0.5675675675675675
+      },
+      "recall": {
+        "H": 0.8387096774193549,
+        "D": 0.0,
+        "A": 0.4772727272727273
+      },
+      "f1": {
+        "H": 0.6146572104018913,
+        "D": 0.0,
+        "A": 0.5185185185185185
+      },
+      "support": {
+        "H": 155,
+        "D": 93,
+        "A": 132
+      },
+      "confusion_matrix": [
+        [
+          130,
+          1,
+          24
+        ],
+        [
+          69,
+          0,
+          24
+        ],
+        [
+          69,
+          0,
+          63
+        ]
+      ]
+    },
+    "baseline": {
+      "macro_f1": 0.19314641744548286,
+      "accuracy": 0.40789473684210525,
+      "precision": {
+        "H": 0.40789473684210525,
+        "D": 0.0,
+        "A": 0.0
+      },
+      "recall": {
+        "H": 1.0,
+        "D": 0.0,
+        "A": 0.0
+      },
+      "f1": {
+        "H": 0.5794392523364486,
+        "D": 0.0,
+        "A": 0.0
+      },
+      "support": {
+        "H": 155,
+        "D": 93,
+        "A": 132
+      },
+      "confusion_matrix": [
+        [
+          155,
+          0,
+          0
+        ],
+        [
+          93,
+          0,
+          0
+        ],
+        [
+          132,
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  "rf_all_params": {
+    "bootstrap": true,
+    "ccp_alpha": 0.0,
+    "class_weight": null,
+    "criterion": "gini",
+    "max_depth": 8,
+    "max_features": "sqrt",
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 5,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 100,
+    "n_jobs": -1,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  }
+}

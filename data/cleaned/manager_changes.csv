@@ -1,0 +1,100 @@
+season,team_raw,outgoing_manager,manner_of_departure,date_of_vacancy,position_in_table,incoming_manager,date_of_appointment,is_preseason,source_url
+2018-19,Arsenal,Arsène Wenger,Retired,2018-05-13,Pre-season,Unai Emery,2018-05-23,1,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Everton,Sam Allardyce,Sacked,2018-05-16,Pre-season,Marco Silva,2018-05-31,1,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,West Ham United,David Moyes,End of contract,2018-05-16,Pre-season,Manuel Pellegrini,2018-05-22,1,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Chelsea,Antonio Conte,Sacked,2018-07-13,Pre-season,Maurizio Sarri,2018-07-14,1,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Fulham,Slaviša Jokanović,Sacked,2018-11-14,20th,Claudio Ranieri,2018-11-14,0,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Southampton,Mark Hughes,Sacked,2018-12-03,18th,Ralph Hasenhüttl,2018-12-05,0,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Manchester United,José Mourinho,Sacked,2018-12-18,6th,Ole Gunnar Solskjær,2018-12-19,0,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Huddersfield Town,David Wagner,Mutual consent,2019-01-14,20th,Jan Siewert,2019-01-21,0,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Leicester City,Claude Puel,Sacked,2019-02-24,12th,Brendan Rodgers,2019-02-26,0,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2018-19,Fulham,Claudio Ranieri,Sacked,2019-02-28,19th,Scott Parker,2019-02-28,0,https://en.wikipedia.org/wiki/2018–19_Premier_League
+2019-20,Brighton & Hove Albion,Chris Hughton,Sacked,2019-05-13,Pre-season,Graham Potter,2019-05-20,1,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Chelsea,Maurizio Sarri,Signed by Juventus,2019-06-16,Pre-season,Frank Lampard,2019-07-04,1,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Newcastle United,Rafael Benítez,End of contract,2019-06-30,Pre-season,Steve Bruce,2019-07-17,1,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Watford,Javi Gracia,Sacked,2019-09-07,20th,Quique Sánchez Flores,2019-09-07,0,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Tottenham Hotspur,Mauricio Pochettino,Sacked,2019-11-19,14th,José Mourinho,2019-11-20,0,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Arsenal,Unai Emery,Sacked,2019-11-29,8th,Mikel Arteta,2019-12-20,0,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Watford,Quique Sánchez Flores,Sacked,2019-12-01,20th,Nigel Pearson,2019-12-06,0,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Everton,Marco Silva,Sacked,2019-12-05,18th,Carlo Ancelotti,2019-12-21,0,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,West Ham United,Manuel Pellegrini,Sacked,2019-12-28,17th,David Moyes,2019-12-29,0,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2019-20,Watford,Nigel Pearson,Sacked,2020-07-19,17th,Hayden Mullins (interim),2020-07-19,0,https://en.wikipedia.org/wiki/2019–20_Premier_League
+2020-21,West Bromwich Albion,Slaven Bilić,Sacked,2020-12-16,19th,Sam Allardyce,2020-12-16,0,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Chelsea,Frank Lampard,Sacked,2021-01-25,9th,Thomas Tuchel,2021-01-26,0,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Sheffield United,Chris Wilder,Sacked,2021-03-13,20th,Paul Heckingbottom (interim),2021-03-13,0,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2020-21,Tottenham Hotspur,José Mourinho,Sacked,2021-04-19,7th,Ryan Mason (interim),2021-04-19,0,https://en.wikipedia.org/wiki/2020–21_Premier_League
+2021-22,Crystal Palace,Roy Hodgson,End of contract,2021-05-24,Pre-season,Patrick Vieira,2021-07-04,1,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Wolverhampton Wanderers,Nuno Espírito Santo,Mutual consent,2021-05-24,Pre-season,Bruno Lage,2021-06-09,1,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Everton,Carlo Ancelotti,Signed by Real Madrid,2021-06-01,Pre-season,Rafael Benítez,2021-06-30,1,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Tottenham Hotspur,Ryan Mason,End of caretaker spell,2021-06-30,Pre-season,Nuno Espírito Santo,2021-06-30,1,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Watford,Xisco Muñoz,Sacked,2021-10-03,14th,Claudio Ranieri,2021-10-04,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Newcastle United,Steve Bruce,Mutual consent,2021-10-20,19th,Graeme Jones (interim),2021-10-20,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Tottenham Hotspur,Nuno Espírito Santo,Sacked,2021-11-01,8th,Antonio Conte,2021-11-02,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Norwich City,Daniel Farke,Sacked,2021-11-06,20th,Dean Smith,2021-11-15,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Aston Villa,Dean Smith,Sacked,2021-11-07,15th,Steven Gerrard,2021-11-11,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Newcastle United,Graeme Jones,End of interim spell,2021-11-08,19th,Eddie Howe,2021-11-08,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Manchester United,Ole Gunnar Solskjær,Sacked,2021-11-21,7th,Michael Carrick (caretaker),2021-11-21,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Manchester United,Michael Carrick,End of caretaker spell,2021-12-02,7th,Ralf Rangnick (interim),2021-12-03,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Everton,Rafael Benítez,Sacked,2022-01-16,15th,Duncan Ferguson (caretaker),2022-01-18,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Watford,Claudio Ranieri,Sacked,2022-01-24,19th,Roy Hodgson,2022-01-25,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Everton,Duncan Ferguson,End of caretaker spell,2022-01-31,16th,Frank Lampard,2022-01-31,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Leeds United,Marcelo Bielsa,Sacked,2022-02-27,16th,Jesse Marsch,2022-02-28,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2021-22,Burnley,Sean Dyche,Sacked,2022-04-15,18th,Mike Jackson (lead caretaker),2022-04-15,0,https://en.wikipedia.org/wiki/2021–22_Premier_League
+2022-23,Manchester United,Ralf Rangnick,End of interim spell,2022-05-22,Pre-season,Erik ten Hag,2022-05-23,1,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Bournemouth,Scott Parker,Sacked,2022-08-30,17th,Gary O'Neil,2022-08-30,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Chelsea,Thomas Tuchel,Sacked,2022-09-07,6th,Graham Potter,2022-09-08,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Brighton & Hove Albion,Graham Potter,Signed by Chelsea,2022-09-08,4th,Roberto De Zerbi,2022-09-18,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Wolverhampton Wanderers,Bruno Lage,Sacked,2022-10-02,18th,Steve Davis (interim),2022-10-02,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Aston Villa,Steven Gerrard,Sacked,2022-10-20,17th,Aaron Danks (interim),2022-10-21,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Aston Villa,Aaron Danks,End of interim spell,2022-11-01,16th,Unai Emery,2022-11-01,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Southampton,Ralph Hasenhüttl,Sacked,2022-11-07,18th,Nathan Jones,2022-11-10,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Wolverhampton Wanderers,Steve Davis,End of interim spell,2022-11-14,20th,Julen Lopetegui,2022-11-14,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Everton,Frank Lampard,Sacked,2023-01-23,19th,Sean Dyche,2023-01-30,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Leeds United,Jesse Marsch,Sacked,2023-02-06,17th,Michael Skubala (interim),2023-02-06,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Southampton,Nathan Jones,Sacked,2023-02-12,20th,Rubén Sellés,2023-02-12,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Leeds United,Michael Skubala,End of interim spell,2023-02-21,19th,Javi Gracia,2023-02-21,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Crystal Palace,Patrick Vieira,Sacked,2023-03-17,12th,Paddy McCarthy (interim),2023-03-17,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Crystal Palace,Paddy McCarthy,End of interim spell,2023-03-21,12th,Roy Hodgson (interim),2023-03-21,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Tottenham Hotspur,Antonio Conte,Mutual consent,2023-03-26,4th,Cristian Stellini (interim),2023-03-26,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Leicester City,Brendan Rodgers,Mutual consent,2023-04-02,19th,Adam Sadler (interim),2023-04-04,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Chelsea,Graham Potter,Sacked,2023-04-02,11th,Bruno Saltor (interim),2023-04-02,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Chelsea,Bruno Saltor,End of interim spell,2023-04-06,11th,Frank Lampard (interim),2023-04-06,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Leicester City,Adam Sadler,End of interim spell,2023-04-10,19th,Dean Smith,2023-04-10,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Tottenham Hotspur,Cristian Stellini (interim),Sacked,2023-04-24,5th,Ryan Mason (interim),2023-04-24,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2022-23,Leeds United,Javi Gracia,Sacked,2023-05-03,17th,Sam Allardyce,2023-05-03,0,https://en.wikipedia.org/wiki/2022–23_Premier_League
+2023-24,Chelsea,Frank Lampard,End of interim spell,2023-05-28,Pre-season,Mauricio Pochettino,2023-05-29,1,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Tottenham Hotspur,Ryan Mason,End of interim spell,2023-05-28,Pre-season,Ange Postecoglou,2023-06-06,1,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Bournemouth,Gary O'Neil,Sacked,2023-06-19,Pre-season,Andoni Iraola,2023-06-19,1,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Wolverhampton Wanderers,Julen Lopetegui,Mutual consent,2023-08-08,Pre-season,Gary O'Neil,2023-08-09,1,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Sheffield United,Paul Heckingbottom,Sacked,2023-12-05,20th,Chris Wilder,2023-12-05,0,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Nottingham Forest,Steve Cooper,Sacked,2023-12-19,17th,Nuno Espírito Santo,2023-12-20,0,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2023-24,Crystal Palace,Roy Hodgson,Resigned,2024-02-19,16th,Oliver Glasner,2024-02-19,0,https://en.wikipedia.org/wiki/2023–24_Premier_League
+2024-25,Brighton & Hove Albion,Roberto De Zerbi,Mutual consent,2024-05-19,Pre-season,Fabian Hürzeler,2024-06-15,1,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Liverpool,Jürgen Klopp,Resigned,2024-05-19,Pre-season,Arne Slot,2024-06-01,1,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,West Ham United,David Moyes,End of contract,2024-05-19,Pre-season,Julen Lopetegui,2024-07-01,1,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Chelsea,Mauricio Pochettino,Mutual consent,2024-05-21,Pre-season,Enzo Maresca,2024-06-03,1,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Leicester City,Enzo Maresca,Signed by Chelsea,2024-06-03,Pre-season,Steve Cooper,2024-06-20,1,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Manchester United,Erik ten Hag,Sacked,2024-10-28,14th,Ruud van Nistelrooy (interim),2024-10-28,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Manchester United,Ruud van Nistelrooy,End of interim spell,2024-11-11,13th,Ruben Amorim,2024-11-11,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Leicester City,Steve Cooper,Sacked,2024-11-24,16th,Ben Dawson (interim),2024-11-24,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Leicester City,Ben Dawson,End of interim spell,2024-12-01,16th,Ruud van Nistelrooy,2024-12-01,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Wolverhampton Wanderers,Gary O'Neil,Sacked,2024-12-15,19th,Vítor Pereira,2024-12-19,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Southampton,Russell Martin,Sacked,2024-12-15,20th,Simon Rusk (interim),2024-12-15,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Southampton,Simon Rusk,End of interim spell,2024-12-22,20th,Ivan Jurić,2024-12-22,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,West Ham United,Julen Lopetegui,Sacked,2025-01-08,14th,Graham Potter,2025-01-09,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Everton,Sean Dyche,Sacked,2025-01-09,16th,Leighton Baines (interim),2025-01-09,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Everton,Leighton Baines,End of interim spell,2025-01-11,16th,David Moyes,2025-01-11,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2024-25,Southampton,Ivan Jurić,Mutual consent,2025-04-07,20th,Simon Rusk (interim),2025-04-07,0,https://en.wikipedia.org/wiki/2024–25_Premier_League
+2025-26,Tottenham Hotspur,Ange Postecoglou,Sacked,2025-06-06,Pre-season,Thomas Frank,2025-06-12,1,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Brentford,Thomas Frank,Signed by Tottenham Hotspur,2025-06-12,Pre-season,Keith Andrews,2025-06-27,1,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Nottingham Forest,Nuno Espírito Santo,Sacked,2025-09-08,10th,Ange Postecoglou,2025-09-09,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,West Ham United,Graham Potter,Sacked,2025-09-27,19th,Nuno Espírito Santo,2025-09-27,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Nottingham Forest,Ange Postecoglou,Sacked,2025-10-18,18th,Sean Dyche,2025-10-21,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Wolverhampton Wanderers,Vítor Pereira,Sacked,2025-11-02,20th,Rob Edwards,2025-11-12,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Chelsea,Enzo Maresca,Resigned,2026-01-01,5th,Liam Rosenior,2026-01-08,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Manchester United,Ruben Amorim,Sacked,2026-01-05,6th,Michael Carrick,2026-01-13,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Tottenham Hotspur,Thomas Frank,Sacked,2026-02-11,16th,Igor Tudor,2026-02-14,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Nottingham Forest,Sean Dyche,Sacked,2026-02-12,17th,Vítor Pereira,2026-02-15,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Tottenham Hotspur,Igor Tudor,Mutual consent,2026-03-29,17th,Roberto De Zerbi,2026-03-31,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Chelsea,Liam Rosenior,Sacked,2026-04-22,7th,Calum McFarlane (interim),2026-04-22,0,https://en.wikipedia.org/wiki/2025–26_Premier_League
+2025-26,Burnley,Scott Parker,Mutual consent,2026-04-30,19th,Mike Jackson (interim),2026-04-30,0,https://en.wikipedia.org/wiki/2025–26_Premier_League

@@ -1,0 +1,881 @@
+match_url,match_date,season,team_raw,is_home,lineup_order,player_name,position
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,1,André Onana,Goalkeeper
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,2,Harry Maguire,Defender
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,3,Lisandro Martínez,Defender
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,4,Diogo Dalot,Defender/Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,5,Noussair Mazraoui,Defender/Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,6,Bruno Fernandes,Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,7,Casemiro,Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,8,Kobbie Mainoo,Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,9,Mason Mount,Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,10,Amad Diallo,Midfielder/Forward
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Manchester United,1,11,Marcus Rashford,Midfielder/Forward
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,1,Bernd Leno,Goalkeeper
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,2,Calvin Bassey,Defender
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,3,Issa Diop,Defender
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,4,Kenny Tete,Defender
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,5,Antonee Robinson,Defender/Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,6,Andreas Pereira,Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,7,Saša Lukić,Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,8,Emile Smith Rowe,Midfielder
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,9,Alex Iwobi,Midfielder/Forward
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,10,Adama Traoré,Midfielder/Forward
+https://www.11v11.com/matches/manchester-united-v-fulham-16-august-2024-384854/,2024-08-16,2024-25,Fulham,0,11,Rodrigo Muniz,Forward
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,1,David Raya,Goalkeeper
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,2,Gabriel,Defender
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,3,William Saliba,Defender
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,4,Ben White,Defender
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,5,Thomas Partey,Defender/Midfielder
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,6,Declan Rice,Defender/Midfielder
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,7,Olexsandr Zinchenko,Defender/Midfielder
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,8,Bukayo Saka,Defender/Midfielder/Forward
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,9,Martin Odegaard,Midfielder
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,10,Kai Havertz,Midfielder/Forward
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Arsenal,1,11,Gabriel Martinelli,Forward
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,1,José Sá,Goalkeeper
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,2,Matt Doherty,Defender
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,3,Yerson Mosquera,Defender
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,4,Toti,Defender
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,5,Rayan Aït Nouri,Defender/Midfielder
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,6,Mario Lemina,Defender/Midfielder
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,7,Jean-Ricner Bellegarde,Midfielder
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,8,João Gomes,Midfielder
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,9,HWANG Hee-chan,Midfielder/Forward
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,10,Rodrigo Gomes,Midfielder/Forward
+https://www.11v11.com/matches/arsenal-v-wolverhampton-wanderers-17-august-2024-384856/,2024-08-17,2024-25,Wolverhampton Wanderers,0,11,Jørgen Strand Larsen,Forward
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,1,Jordan Pickford,Goalkeeper
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,2,Michael Keane,Defender
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,3,Vitaliy Mykolenko,Defender
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,4,James Tarkowski,Defender
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,5,Ashley Young,Defender/Midfielder/Forward
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,6,Abdoulaye Doucouré,Midfielder
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,7,Idrissa Gueye,Midfielder
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,8,Jack Harrison,Midfielder
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,9,Tim Iroegbunam,Midfielder
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,10,Dwight McNeil,Midfielder/Forward
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Everton,1,11,Dominic Calvert-Lewin,Forward
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,1,Jason Steele,Goalkeeper
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,2,Lewis Dunk,Defender
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,3,Jan Paul Van Hecke,Defender
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,4,Joël Veltman,Defender
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,5,Jack Hinshelwood,Defender/Midfielder
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,6,James Milner,Defender/Midfielder
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,7,Mats Wieffer,Defender/Midfielder
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,8,Yankuba Minteh,Midfielder/Forward
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,9,Kaoru Mitoma,Midfielder/Forward
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,10,João Pedro,Forward
+https://www.11v11.com/matches/everton-v-brighton-and-hove-albion-17-august-2024-384857/,2024-08-17,2024-25,Brighton and Hove Albion,0,11,Danny Welbeck,Forward
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,1,Christian Walton,Goalkeeper
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,2,Leif Davis,Defender
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,3,Jacob Greaves,Defender
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,4,Axel Tuanzebe,Defender
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,5,Luke Woolfenden,Defender
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,6,Omari Hutchinson,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,7,Massimo Luongo,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,8,Sam Morsy,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,9,Wes Burns,Midfielder/Forward
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,10,Conor Chaplin,Forward
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Ipswich Town,1,11,Liam Delap,Forward
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,1,Alisson Becker,Goalkeeper
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,2,Jarell Quansah,Defender
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,3,Virgil van Dijk,Defender
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,4,Trent Alexander-Arnold,Defender/Midfielder
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,5,Andy Robertson,Defender/Midfielder
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,6,Dominik Szoboszlai,Defender/Midfielder/Forward
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,7,Ryan Gravenberch,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,8,Alexis Mac Allister,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,9,Luis Díaz,Midfielder/Forward
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,10,Diogo Jota,Midfielder/Forward
+https://www.11v11.com/matches/ipswich-town-v-liverpool-17-august-2024-384855/,2024-08-17,2024-25,Liverpool,0,11,Mohamed Salah,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,1,Nick Pope,Goalkeeper
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,2,Dan Burn,Defender
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,3,Fabian Schär,Defender
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,4,Lewis Hall,Defender/Midfielder
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,5,Tino Livramento,Defender/Midfielder
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,6,Bruno Guimarães,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,7,Jacob Murphy,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,8,Anthony Gordon,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,9,Joelinton,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,10,Sean Longstaff,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Newcastle United,1,11,Alexander Isak,Forward
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,1,Alex McCarthy,Goalkeeper
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,2,Jan Bednarek,Defender
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,3,Taylor Harwood-Bellis,Defender
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,4,Jack Stephens,Defender
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,5,Yukinari Sugawara,Defender
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,6,Kyle Walker-Peters,Defender/Midfielder
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,7,Joe Aribo,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,8,Flynn Downes,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,9,Will Smallbone,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,10,Adam Armstrong,Forward
+https://www.11v11.com/matches/newcastle-united-v-southampton-17-august-2024-384858/,2024-08-17,2024-25,Southampton,0,11,Ben Brereton Diaz,Forward
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,1,Matz Sels,Goalkeeper
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,2,Willy Boly,Defender
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,3,Murillo,Defender
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,4,Ola Aina,Defender/Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,5,Neco Williams,Defender/Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,6,Danilo,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,7,Callum Hudson-Odoi,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,8,Ibrahim Sangaré,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,9,Anthony Elanga,Midfielder/Forward
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,10,Morgan Gibbs-White,Midfielder/Forward
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,Nottingham Forest,1,11,Chris Wood,Forward
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,1,Neto,Goalkeeper
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,2,Dean Huijsen,Defender
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,3,Adam Smith,Defender
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,4,Illia Zabarnyi,Defender
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,5,Miloš Kerkez,Defender/Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,6,Lewis Cook,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,7,Alex Scott,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,8,Marcus Tavernier,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,9,Dango Ouattara,Midfielder/Forward
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,10,Luis Sinisterra,Midfielder/Forward
+https://www.11v11.com/matches/nottingham-forest-v-afc-bournemouth-17-august-2024-384859/,2024-08-17,2024-25,AFC Bournemouth,0,11,Antoine Semenyo,Forward
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,1,Alphonse Areola,Goalkeeper
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,2,Emerson,Defender
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,3,Max Kilman,Defender
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,4,Dinos Mavropanos,Defender
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,5,Vladimír Coufal,Defender/Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,6,Lucas Paquetá,Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,7,Guido Rodríguez,Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,8,Tomáš Souček,Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,9,Michail Antonio,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,10,Jarrod Bowen,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,West Ham United,1,11,Mohammed Kudus,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,1,Emiliano Martínez,Goalkeeper
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,2,Pau Torres,Defender
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,3,Matty Cash,Defender/Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,4,Lucas Digne,Defender/Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,5,Ezri Konsa,Defender/Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,6,Amadou Onana,Defender/Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,7,Leon Bailey,Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,8,John McGinn,Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,9,Youri Tielemans,Midfielder
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,10,Morgan Rogers,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-aston-villa-17-august-2024-384860/,2024-08-17,2024-25,Aston Villa,0,11,Ollie Watkins,Forward
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,1,Mark Flekken,Goalkeeper
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,2,Nathan Collins,Defender
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,3,Ethan Pinnock,Defender
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,4,Kristoffer Ajer,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,5,Christian Norgaard,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,6,Mads Roerslev,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,7,Vitaly Janelt,Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,8,Mathias Jensen,Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,9,Bryan Mbeumo,Midfielder/Forward
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,10,Kevin Schade,Midfielder/Forward
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Brentford,1,11,Yoane Wissa,Midfielder/Forward
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,1,Dean Henderson,Goalkeeper
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,2,Joachim Andersen,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,3,Marc Guéhi,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,4,Tyrick Mitchell,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,5,Daniel Muñoz,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,6,Chris Richards,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,7,Will Hughes,Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,8,Daichi Kamada,Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,9,Adam Wharton,Midfielder
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,10,Eberechi Eze,Midfielder/Forward
+https://www.11v11.com/matches/brentford-v-crystal-palace-18-august-2024-384861/,2024-08-18,2024-25,Crystal Palace,0,11,Jean-Philippe Mateta,Forward
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,1,Robert Sánchez,Goalkeeper
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,2,Levi Colwill,Defender
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,3,Wesley Fofana,Defender
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,4,Malo Gusto,Defender
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,5,Moisés Caicedo,Defender/Midfielder
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,6,Marc Cucurella,Defender/Midfielder
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,7,Enzo Fernández,Midfielder
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,8,Roméo Lavia,Midfielder
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,9,Nicolas Jackson,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,10,Christopher Nkunku,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Chelsea,1,11,Cole Palmer,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,1,Ederson,Goalkeeper
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,2,Manuel Akanji,Defender
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,3,Joško Gvardiol,Defender
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,4,Rúben Dias,Defender
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,5,Rico Lewis,Defender/Midfielder
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,6,Mateo Kovačić,Midfielder
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,7,Bernardo Silva,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,8,Kevin De Bruyne,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,9,Jérémy Doku,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,10,Sávio,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-manchester-city-18-august-2024-384862/,2024-08-18,2024-25,Manchester City,0,11,Erling Haaland,Forward
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,1,Mads Hermansen,Goalkeeper
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,2,Wout Faes,Defender
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,3,Victor Kristiansen,Defender
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,4,Jannik Vestergaard,Defender
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,5,James Justin,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,6,Wilfred Ndidi,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,7,Bobby Decordova-Reid,Defender/Midfielder/Forward
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,8,Abdul Fatawu,Midfielder
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,9,Harry Winks,Midfielder
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,10,Facundo Buonanotte,Midfielder/Forward
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Leicester City,1,11,Jamie Vardy,Forward
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,1,Guglielmo Vicario,Goalkeeper
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,2,Cristian Romero,Defender
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,3,Micky van de Ven,Defender
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,4,Pedro Porro,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,5,Destiny Udogie,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,6,Rodrigo Bentancur,Midfielder
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,7,James Maddison,Midfielder
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,8,Pape Matar Sarr,Midfielder
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,9,SON Heung-min,Midfielder/Forward
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,10,Brennan Johnson,Midfielder/Forward
+https://www.11v11.com/matches/leicester-city-v-tottenham-hotspur-19-august-2024-384863/,2024-08-19,2024-25,Tottenham Hotspur,0,11,Dominic Solanke,Forward
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,1,Emiliano Martínez,Goalkeeper
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,2,Pau Torres,Defender
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,3,Matty Cash,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,4,Lucas Digne,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,5,Ezri Konsa,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,6,Amadou Onana,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,7,Leon Bailey,Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,8,John McGinn,Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,9,Youri Tielemans,Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,10,Morgan Rogers,Midfielder/Forward
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Aston Villa,1,11,Ollie Watkins,Forward
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,1,David Raya,Goalkeeper
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,2,Gabriel,Defender
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,3,William Saliba,Defender
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,4,Jurriën Timber,Defender
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,5,Ben White,Defender
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,6,Thomas Partey,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,7,Declan Rice,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,8,Bukayo Saka,Defender/Midfielder/Forward
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,9,Martin Odegaard,Midfielder
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,10,Kai Havertz,Midfielder/Forward
+https://www.11v11.com/matches/aston-villa-v-arsenal-24-august-2024-384870/,2024-08-24,2024-25,Arsenal,0,11,Gabriel Martinelli,Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,1,Jason Steele,Goalkeeper
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,2,Lewis Dunk,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,3,Jan Paul Van Hecke,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,4,Joël Veltman,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,5,Jack Hinshelwood,Defender/Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,6,James Milner,Defender/Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,7,Billy Gilmour,Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,8,Yankuba Minteh,Midfielder/Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,9,Kaoru Mitoma,Midfielder/Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,10,João Pedro,Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Brighton and Hove Albion,1,11,Danny Welbeck,Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,1,André Onana,Goalkeeper
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,2,Harry Maguire,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,3,Lisandro Martínez,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,4,Diogo Dalot,Defender/Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,5,Noussair Mazraoui,Defender/Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,6,Bruno Fernandes,Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,7,Casemiro,Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,8,Kobbie Mainoo,Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,9,Mason Mount,Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,10,Amad Diallo,Midfielder/Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-manchester-united-24-august-2024-384864/,2024-08-24,2024-25,Manchester United,0,11,Marcus Rashford,Midfielder/Forward
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,1,Dean Henderson,Goalkeeper
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,2,Chadi Riad,Defender
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,3,Marc Guéhi,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,4,Tyrick Mitchell,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,5,Daniel Muñoz,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,6,Chris Richards,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,7,Jefferson Lerma,Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,8,Adam Wharton,Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,9,Eberechi Eze,Midfielder/Forward
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,10,Odsonne Edouard,Forward
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,Crystal Palace,1,11,Jean-Philippe Mateta,Forward
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,1,Alphonse Areola,Goalkeeper
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,2,Emerson,Defender
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,3,Max Kilman,Defender
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,4,Dinos Mavropanos,Defender
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,5,Vladimír Coufal,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,6,Lucas Paquetá,Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,7,Guido Rodríguez,Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,8,Tomáš Souček,Midfielder
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,9,Michail Antonio,Midfielder/Forward
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,10,Jarrod Bowen,Midfielder/Forward
+https://www.11v11.com/matches/crystal-palace-v-west-ham-united-24-august-2024-384865/,2024-08-24,2024-25,West Ham United,0,11,Mohammed Kudus,Midfielder/Forward
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,1,Bernd Leno,Goalkeeper
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,2,Calvin Bassey,Defender
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,3,Issa Diop,Defender
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,4,Kenny Tete,Defender
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,5,Antonee Robinson,Defender/Midfielder
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,6,Andreas Pereira,Midfielder
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,7,Saša Lukić,Midfielder
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,8,Emile Smith Rowe,Midfielder
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,9,Alex Iwobi,Midfielder/Forward
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,10,Adama Traoré,Midfielder/Forward
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Fulham,1,11,Rodrigo Muniz,Forward
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,1,Mads Hermansen,Goalkeeper
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,2,Wout Faes,Defender
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,3,Victor Kristiansen,Defender
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,4,Jannik Vestergaard,Defender
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,5,James Justin,Defender/Midfielder
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,6,Wilfred Ndidi,Defender/Midfielder
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,7,Bobby Decordova-Reid,Defender/Midfielder/Forward
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,8,Abdul Fatawu,Midfielder
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,9,Harry Winks,Midfielder
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,10,Facundo Buonanotte,Midfielder/Forward
+https://www.11v11.com/matches/fulham-v-leicester-city-24-august-2024-384866/,2024-08-24,2024-25,Leicester City,0,11,Jamie Vardy,Forward
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,1,Ederson,Goalkeeper
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,2,Manuel Akanji,Defender
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,3,Joško Gvardiol,Defender
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,4,Rúben Dias,Defender
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,5,Rico Lewis,Defender/Midfielder
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,6,Mateo Kovačić,Midfielder
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,7,Bernardo Silva,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,8,Kevin De Bruyne,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,9,Jérémy Doku,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,10,Sávio,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Manchester City,1,11,Erling Haaland,Forward
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,1,Aro Murić,Goalkeeper
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,2,Leif Davis,Defender
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,3,Jacob Greaves,Defender
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,4,Axel Tuanzebe,Defender
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,5,Luke Woolfenden,Defender
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,6,Ben Johnson,Defender/Midfielder
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,7,Omari Hutchinson,Midfielder
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,8,Massimo Luongo,Midfielder
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,9,Sam Morsy,Midfielder
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,10,Sammie Szmodics,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-ipswich-town-24-august-2024-384867/,2024-08-24,2024-25,Ipswich Town,0,11,Liam Delap,Forward
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,1,Alex McCarthy,Goalkeeper
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,2,Jan Bednarek,Defender
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,3,Taylor Harwood-Bellis,Defender
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,4,Jack Stephens,Defender
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,5,Yukinari Sugawara,Defender
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,6,Kyle Walker-Peters,Defender/Midfielder
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,7,Joe Aribo,Midfielder
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,8,Flynn Downes,Midfielder
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,9,Will Smallbone,Midfielder
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,10,Adam Armstrong,Forward
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Southampton,1,11,Ben Brereton Diaz,Forward
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,1,Matz Sels,Goalkeeper
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,2,Nikola Milenković,Defender
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,3,Murillo,Defender
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,4,Ola Aina,Defender/Midfielder
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,5,Neco Williams,Defender/Midfielder
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,6,Elliott Anderson,Midfielder
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,7,Callum Hudson-Odoi,Midfielder
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,8,Ibrahim Sangaré,Midfielder
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,9,Anthony Elanga,Midfielder/Forward
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,10,Morgan Gibbs-White,Midfielder/Forward
+https://www.11v11.com/matches/southampton-v-nottingham-forest-24-august-2024-384868/,2024-08-24,2024-25,Nottingham Forest,0,11,Chris Wood,Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,1,Guglielmo Vicario,Goalkeeper
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,2,Cristian Romero,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,3,Micky van de Ven,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,4,Pedro Porro,Defender/Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,5,Destiny Udogie,Defender/Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,6,Yves Bissouma,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,7,Dejan Kulusekvski,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,8,James Maddison,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,9,SON Heung-min,Midfielder/Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,10,Brennan Johnson,Midfielder/Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Tottenham Hotspur,1,11,Wilson Odobert,Midfielder/Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,1,Jordan Pickford,Goalkeeper
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,2,Roman Dixon,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,3,Michael Keane,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,4,Vitaliy Mykolenko,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,5,James Tarkowski,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,6,Abdoulaye Doucouré,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,7,Idrissa Gueye,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,8,Jack Harrison,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,9,Tim Iroegbunam,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,10,Dwight McNeil,Midfielder/Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-everton-24-august-2024-384869/,2024-08-24,2024-25,Everton,0,11,Dominic Calvert-Lewin,Forward
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,1,Neto,Goalkeeper
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,2,Julian Araujo,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,3,Marcos Senesi,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,4,Illia Zabarnyi,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,5,Miloš Kerkez,Defender/Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,6,Ryan Christie,Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,7,Lewis Cook,Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,8,Marcus Tavernier,Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,9,Evanilson,Forward
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,10,Justin Kluivert,Forward
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,AFC Bournemouth,1,11,Antoine Semenyo,Forward
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,1,Nick Pope,Goalkeeper
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,2,Dan Burn,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,3,Lloyd Kelly,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,4,Emil Krafth,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,5,Tino Livramento,Defender/Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,6,Bruno Guimarães,Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,7,Jacob Murphy,Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,8,Anthony Gordon,Midfielder/Forward
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,9,Joelinton,Midfielder/Forward
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,10,Sean Longstaff,Midfielder/Forward
+https://www.11v11.com/matches/afc-bournemouth-v-newcastle-united-25-august-2024-384871/,2024-08-25,2024-25,Newcastle United,0,11,Alexander Isak,Forward
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,1,Alisson Becker,Goalkeeper
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,2,Ibrahima Konaté,Defender
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,3,Virgil van Dijk,Defender
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,4,Trent Alexander-Arnold,Defender/Midfielder
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,5,Andy Robertson,Defender/Midfielder
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,6,Dominik Szoboszlai,Defender/Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,7,Ryan Gravenberch,Midfielder
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,8,Alexis Mac Allister,Midfielder
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,9,Luis Díaz,Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,10,Diogo Jota,Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Liverpool,1,11,Mohamed Salah,Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,1,Mark Flekken,Goalkeeper
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,2,Nathan Collins,Defender
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,3,Ethan Pinnock,Defender
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,4,Kristoffer Ajer,Defender/Midfielder
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,5,Christian Norgaard,Defender/Midfielder
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,6,Mads Roerslev,Defender/Midfielder
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,7,Keane Lewis-Potter,Defender/Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,8,Vitaly Janelt,Midfielder
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,9,Mathias Jensen,Midfielder
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,10,Bryan Mbeumo,Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-brentford-25-august-2024-384873/,2024-08-25,2024-25,Brentford,0,11,Yoane Wissa,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,1,José Sá,Goalkeeper
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,2,Matt Doherty,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,3,Yerson Mosquera,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,4,Toti,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,5,Rayan Aït Nouri,Defender/Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,6,Mario Lemina,Defender/Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,7,Jean-Ricner Bellegarde,Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,8,João Gomes,Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,9,HWANG Hee-chan,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,10,Matheus Cunha,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Wolverhampton Wanderers,1,11,Jørgen Strand Larsen,Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,1,Robert Sánchez,Goalkeeper
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,2,Levi Colwill,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,3,Wesley Fofana,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,4,Malo Gusto,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,5,Moisés Caicedo,Defender/Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,6,Marc Cucurella,Defender/Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,7,Enzo Fernández,Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,8,Nicolas Jackson,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,9,Noni Madueke,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,10,Mykhailo Mudryk,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-chelsea-25-august-2024-384872/,2024-08-25,2024-25,Chelsea,0,11,Cole Palmer,Midfielder/Forward
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,1,David Raya,Goalkeeper
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,2,Gabriel,Defender
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,3,William Saliba,Defender
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,4,Jurriën Timber,Defender
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,5,Ben White,Defender
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,6,Thomas Partey,Defender/Midfielder
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,7,Declan Rice,Defender/Midfielder
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,8,Bukayo Saka,Defender/Midfielder/Forward
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,9,Martin Odegaard,Midfielder
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,10,Leandro Trossard,Midfielder
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Arsenal,1,11,Kai Havertz,Midfielder/Forward
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,1,Bart Verbruggen,Goalkeeper
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,2,Lewis Dunk,Defender
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,3,Jan Paul Van Hecke,Defender
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,4,Joël Veltman,Defender
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,5,Jack Hinshelwood,Defender/Midfielder
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,6,James Milner,Defender/Midfielder
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,7,Carlos Baleba,Midfielder
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,8,Yankuba Minteh,Midfielder/Forward
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,9,Kaoru Mitoma,Midfielder/Forward
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,10,João Pedro,Forward
+https://www.11v11.com/matches/arsenal-v-brighton-and-hove-albion-31-august-2024-384874/,2024-08-31,2024-25,Brighton and Hove Albion,0,11,Danny Welbeck,Forward
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,1,Mark Flekken,Goalkeeper
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,2,Nathan Collins,Defender
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,3,Ethan Pinnock,Defender
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,4,Kristoffer Ajer,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,5,Christian Norgaard,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,6,Vitaly Janelt,Midfielder
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,7,Mathias Jensen,Midfielder
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,8,Mikkel Damsgaard,Midfielder/Forward
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,9,Bryan Mbeumo,Midfielder/Forward
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,10,Kevin Schade,Midfielder/Forward
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Brentford,1,11,Yoane Wissa,Midfielder/Forward
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,1,Aaron Ramsdale,Goalkeeper
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,2,Jan Bednarek,Defender
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,3,Taylor Harwood-Bellis,Defender
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,4,Jack Stephens,Defender
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,5,Yukinari Sugawara,Defender
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,6,Kyle Walker-Peters,Defender/Midfielder
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,7,Joe Aribo,Midfielder
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,8,Flynn Downes,Midfielder
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,9,Will Smallbone,Midfielder
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,10,Adam Armstrong,Forward
+https://www.11v11.com/matches/brentford-v-southampton-31-august-2024-384875/,2024-08-31,2024-25,Southampton,0,11,Ben Brereton Diaz,Forward
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,1,Jordan Pickford,Goalkeeper
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,2,Michael Keane,Defender
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,3,Vitaliy Mykolenko,Defender
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,4,James Tarkowski,Defender
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,5,Séamus Coleman,Defender/Midfielder
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,6,Idrissa Gueye,Midfielder
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,7,Jack Harrison,Midfielder
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,8,Tim Iroegbunam,Midfielder
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,9,Dwight McNeil,Midfielder/Forward
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,10,Iliman N'Diaye,Midfielder/Forward
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,Everton,1,11,Dominic Calvert-Lewin,Forward
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,1,Kepa Arrizabalaga,Goalkeeper
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,2,Julian Araujo,Defender
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,3,Marcos Senesi,Defender
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,4,Illia Zabarnyi,Defender
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,5,Miloš Kerkez,Defender/Midfielder
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,6,Ryan Christie,Midfielder
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,7,Lewis Cook,Midfielder
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,8,Marcus Tavernier,Midfielder
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,9,Evanilson,Forward
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,10,Justin Kluivert,Forward
+https://www.11v11.com/matches/everton-v-afc-bournemouth-31-august-2024-384876/,2024-08-31,2024-25,AFC Bournemouth,0,11,Antoine Semenyo,Forward
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,1,Aro Murić,Goalkeeper
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,2,Leif Davis,Defender
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,3,Jacob Greaves,Defender
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,4,Axel Tuanzebe,Defender
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,5,Luke Woolfenden,Defender
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,6,Omari Hutchinson,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,7,Sam Morsy,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,8,Chiedozie Ogbene,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,9,Kalvin Phillips,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,10,Sammie Szmodics,Midfielder/Forward
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Ipswich Town,1,11,Liam Delap,Forward
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,1,Bernd Leno,Goalkeeper
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,2,Calvin Bassey,Defender
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,3,Issa Diop,Defender
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,4,Kenny Tete,Defender
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,5,Antonee Robinson,Defender/Midfielder
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,6,Andreas Pereira,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,7,Saša Lukić,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,8,Emile Smith Rowe,Midfielder
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,9,Alex Iwobi,Midfielder/Forward
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,10,Adama Traoré,Midfielder/Forward
+https://www.11v11.com/matches/ipswich-town-v-fulham-31-august-2024-384877/,2024-08-31,2024-25,Fulham,0,11,Rodrigo Muniz,Forward
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,1,Mads Hermansen,Goalkeeper
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,2,Wout Faes,Defender
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,3,Victor Kristiansen,Defender
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,4,Caleb Okoli,Defender
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,5,James Justin,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,6,Wilfred Ndidi,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,7,Abdul Fatawu,Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,8,Oliver Skipp,Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,9,Harry Winks,Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,10,Jordan Ayew,Forward
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Leicester City,1,11,Jamie Vardy,Forward
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,1,Emiliano Martínez,Goalkeeper
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,2,Pau Torres,Defender
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,3,Lamare Bogarde,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,4,Lucas Digne,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,5,Ezri Konsa,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,6,Amadou Onana,Defender/Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,7,Leon Bailey,Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,8,John McGinn,Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,9,Youri Tielemans,Midfielder
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,10,Morgan Rogers,Midfielder/Forward
+https://www.11v11.com/matches/leicester-city-v-aston-villa-31-august-2024-384878/,2024-08-31,2024-25,Aston Villa,0,11,Ollie Watkins,Forward
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,1,Matz Sels,Goalkeeper
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,2,Nikola Milenković,Defender
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,3,Murillo,Defender
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,4,Ola Aina,Defender/Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,5,Neco Williams,Defender/Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,6,Elliott Anderson,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,7,Callum Hudson-Odoi,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,8,Ibrahim Sangaré,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,9,Anthony Elanga,Midfielder/Forward
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,10,Morgan Gibbs-White,Midfielder/Forward
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Nottingham Forest,1,11,Chris Wood,Forward
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,1,Sam Johnstone,Goalkeeper
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,2,Craig Dawson,Defender
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,3,Yerson Mosquera,Defender
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,4,Nélson Semedo,Defender
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,5,Toti,Defender
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,6,Rayan Aït Nouri,Defender/Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,7,Mario Lemina,Defender/Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,8,Jean-Ricner Bellegarde,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,9,João Gomes,Midfielder
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,10,Matheus Cunha,Midfielder/Forward
+https://www.11v11.com/matches/nottingham-forest-v-wolverhampton-wanderers-31-august-2024-384879/,2024-08-31,2024-25,Wolverhampton Wanderers,0,11,Jørgen Strand Larsen,Forward
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,1,Alphonse Areola,Goalkeeper
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,2,Emerson,Defender
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,3,Max Kilman,Defender
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,4,Dinos Mavropanos,Defender
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,5,Edson Alvarez,Defender/Midfielder
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,6,Aaron Wan-Bissaka,Defender/Midfielder
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,7,Lucas Paquetá,Midfielder
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,8,Guido Rodríguez,Midfielder
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,9,Michail Antonio,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,10,Jarrod Bowen,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,West Ham United,1,11,Mohammed Kudus,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,1,Ederson,Goalkeeper
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,2,Manuel Akanji,Defender
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,3,Joško Gvardiol,Defender
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,4,Rúben Dias,Defender
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,5,Rico Lewis,Defender/Midfielder
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,6,Mateo Kovačić,Midfielder
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,7,Bernardo Silva,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,8,Kevin De Bruyne,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,9,Jérémy Doku,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,10,Jack Grealish,Midfielder/Forward
+https://www.11v11.com/matches/west-ham-united-v-manchester-city-31-august-2024-384880/,2024-08-31,2024-25,Manchester City,0,11,Erling Haaland,Forward
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,1,Robert Sánchez,Goalkeeper
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,2,Levi Colwill,Defender
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,3,Wesley Fofana,Defender
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,4,Malo Gusto,Defender
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,5,Moisés Caicedo,Defender/Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,6,Marc Cucurella,Defender/Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,7,Enzo Fernández,Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,8,Pedro Neto,Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,9,Nicolas Jackson,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,10,Noni Madueke,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Chelsea,1,11,Cole Palmer,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,1,Dean Henderson,Goalkeeper
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,2,Nathaniel Clyne,Defender
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,3,Marc Guéhi,Defender/Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,4,Tyrick Mitchell,Defender/Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,5,Daniel Muñoz,Defender/Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,6,Chris Richards,Defender/Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,7,Will Hughes,Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,8,Daichi Kamada,Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,9,Adam Wharton,Midfielder
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,10,Eberechi Eze,Midfielder/Forward
+https://www.11v11.com/matches/chelsea-v-crystal-palace-01-september-2024-385424/,2024-09-01,2024-25,Crystal Palace,0,11,Jean-Philippe Mateta,Forward
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,1,André Onana,Goalkeeper
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,2,Matthijs de Ligt,Defender
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,3,Lisandro Martínez,Defender
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,4,Diogo Dalot,Defender/Midfielder
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,5,Noussair Mazraoui,Defender/Midfielder
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,6,Bruno Fernandes,Midfielder
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,7,Casemiro,Midfielder
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,8,Kobbie Mainoo,Midfielder
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,9,Alejandro Garnacho,Midfielder/Forward
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,10,Marcus Rashford,Midfielder/Forward
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Manchester United,1,11,Joshua Zirkzee,Forward
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,1,Alisson Becker,Goalkeeper
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,2,Ibrahima Konaté,Defender
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,3,Virgil van Dijk,Defender
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,4,Trent Alexander-Arnold,Defender/Midfielder
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,5,Andy Robertson,Defender/Midfielder
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,6,Dominik Szoboszlai,Defender/Midfielder/Forward
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,7,Ryan Gravenberch,Midfielder
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,8,Alexis Mac Allister,Midfielder
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,9,Luis Díaz,Midfielder/Forward
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,10,Diogo Jota,Midfielder/Forward
+https://www.11v11.com/matches/manchester-united-v-liverpool-01-september-2024-385433/,2024-09-01,2024-25,Liverpool,0,11,Mohamed Salah,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,1,Nick Pope,Goalkeeper
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,2,Dan Burn,Defender
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,3,Lloyd Kelly,Defender
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,4,Emil Krafth,Defender
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,5,Tino Livramento,Defender/Midfielder
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,6,Bruno Guimarães,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,7,Harvey Barnes,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,8,Anthony Gordon,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,9,Joelinton,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,10,Sean Longstaff,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Newcastle United,1,11,Alexander Isak,Forward
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,1,Guglielmo Vicario,Goalkeeper
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,2,Radu Drăgușin,Defender
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,3,Cristian Romero,Defender
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,4,Pedro Porro,Defender/Midfielder
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,5,Destiny Udogie,Defender/Midfielder
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,6,Yves Bissouma,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,7,Dejan Kulusekvski,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,8,James Maddison,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,9,Pape Matar Sarr,Midfielder
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,10,SON Heung-min,Midfielder/Forward
+https://www.11v11.com/matches/newcastle-united-v-tottenham-hotspur-01-september-2024-385444/,2024-09-01,2024-25,Tottenham Hotspur,0,11,Wilson Odobert,Midfielder/Forward
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,1,Mark Travers,Goalkeeper
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,2,Marcos Senesi,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,3,Adam Smith,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,4,Illia Zabarnyi,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,5,Miloš Kerkez,Defender/Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,6,Ryan Christie,Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,7,Lewis Cook,Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,8,Marcus Tavernier,Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,9,Evanilson,Forward
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,10,Justin Kluivert,Forward
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,AFC Bournemouth,1,11,Antoine Semenyo,Forward
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,1,Robert Sánchez,Goalkeeper
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,2,Levi Colwill,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,3,Axel Disasi,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,4,Wesley Fofana,Defender
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,5,Moisés Caicedo,Defender/Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,6,Marc Cucurella,Defender/Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,7,Renato Veiga,Defender/Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,8,Pedro Neto,Midfielder
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,9,Nicolas Jackson,Midfielder/Forward
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,10,Noni Madueke,Midfielder/Forward
+https://www.11v11.com/matches/afc-bournemouth-v-chelsea-14-september-2024-385422/,2024-09-14,2024-25,Chelsea,0,11,Cole Palmer,Midfielder/Forward
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,1,Emiliano Martínez,Goalkeeper
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,2,Pau Torres,Defender
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,3,Lamare Bogarde,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,4,Lucas Digne,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,5,Ezri Konsa,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,6,Amadou Onana,Defender/Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,7,John McGinn,Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,8,Jacob Ramsey,Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,9,Youri Tielemans,Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,10,Morgan Rogers,Midfielder/Forward
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Aston Villa,1,11,Ollie Watkins,Forward
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,1,Jordan Pickford,Goalkeeper
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,2,Michael Keane,Defender
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,3,Vitaliy Mykolenko,Defender
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,4,James Tarkowski,Defender
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,5,Ashley Young,Defender/Midfielder/Forward
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,6,Idrissa Gueye,Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,7,Jack Harrison,Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,8,Tim Iroegbunam,Midfielder
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,9,Dwight McNeil,Midfielder/Forward
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,10,Iliman N'Diaye,Midfielder/Forward
+https://www.11v11.com/matches/aston-villa-v-everton-14-september-2024-385426/,2024-09-14,2024-25,Everton,0,11,Dominic Calvert-Lewin,Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,1,Bart Verbruggen,Goalkeeper
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,2,Lewis Dunk,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,3,Jan Paul Van Hecke,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,4,Joël Veltman,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,5,Jack Hinshelwood,Defender/Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,6,Carlos Baleba,Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,7,Yasin Ayari,Midfielder/Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,8,Yankuba Minteh,Midfielder/Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,9,Kaoru Mitoma,Midfielder/Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,10,Georginio Rutter,Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Brighton and Hove Albion,1,11,Danny Welbeck,Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,1,Aro Murić,Goalkeeper
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,2,Leif Davis,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,3,Jacob Greaves,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,4,Dara O'Shea,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,5,Axel Tuanzebe,Defender
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,6,Omari Hutchinson,Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,7,Sam Morsy,Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,8,Kalvin Phillips,Midfielder
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,9,Wes Burns,Midfielder/Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,10,Sammie Szmodics,Midfielder/Forward
+https://www.11v11.com/matches/brighton-and-hove-albion-v-ipswich-town-14-september-2024-385429/,2024-09-14,2024-25,Ipswich Town,0,11,Liam Delap,Forward
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,1,Dean Henderson,Goalkeeper
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,2,Nathaniel Clyne,Defender
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,3,Maxence Lacroix,Defender
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,4,Marc Guéhi,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,5,Tyrick Mitchell,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,6,Daniel Muñoz,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,7,Cheick Doucouré,Midfielder
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,8,Adam Wharton,Midfielder
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,9,Eberechi Eze,Midfielder/Forward
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,10,Jean-Philippe Mateta,Forward
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Crystal Palace,1,11,Eddie Nketiah,Forward
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,1,Mads Hermansen,Goalkeeper
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,2,Wout Faes,Defender
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,3,Victor Kristiansen,Defender
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,4,Caleb Okoli,Defender
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,5,James Justin,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,6,Wilfred Ndidi,Defender/Midfielder
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,7,Oliver Skipp,Midfielder
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,8,Harry Winks,Midfielder
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,9,Stephy Mavididi,Midfielder/Forward
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,10,Jordan Ayew,Forward
+https://www.11v11.com/matches/crystal-palace-v-leicester-city-14-september-2024-385432/,2024-09-14,2024-25,Leicester City,0,11,Jamie Vardy,Forward
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,1,Bernd Leno,Goalkeeper
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,2,Calvin Bassey,Defender
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,3,Kenny Tete,Defender
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,4,Joachim Andersen,Defender/Midfielder
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,5,Antonee Robinson,Defender/Midfielder
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,6,Andreas Pereira,Midfielder
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,7,Saša Lukić,Midfielder
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,8,Emile Smith Rowe,Midfielder
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,9,Alex Iwobi,Midfielder/Forward
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,10,Adama Traoré,Midfielder/Forward
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,Fulham,1,11,Raúl Jiménez,Forward
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,1,Alphonse Areola,Goalkeeper
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,2,Emerson,Defender
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,3,Max Kilman,Defender
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,4,Dinos Mavropanos,Defender
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,5,Edson Alvarez,Defender/Midfielder
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,6,Aaron Wan-Bissaka,Defender/Midfielder
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,7,Guido Rodríguez,Midfielder
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,8,Tomáš Souček,Midfielder
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,9,Michail Antonio,Midfielder/Forward
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,10,Jarrod Bowen,Midfielder/Forward
+https://www.11v11.com/matches/fulham-v-west-ham-united-14-september-2024-385446/,2024-09-14,2024-25,West Ham United,0,11,Mohammed Kudus,Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,1,Alisson Becker,Goalkeeper
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,2,Ibrahima Konaté,Defender
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,3,Virgil van Dijk,Defender
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,4,Trent Alexander-Arnold,Defender/Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,5,Andy Robertson,Defender/Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,6,Dominik Szoboszlai,Defender/Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,7,Ryan Gravenberch,Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,8,Alexis Mac Allister,Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,9,Luis Díaz,Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,10,Diogo Jota,Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Liverpool,1,11,Mohamed Salah,Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,1,Matz Sels,Goalkeeper
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,2,Nikola Milenković,Defender
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,3,Murillo,Defender
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,4,Ola Aina,Defender/Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,5,Alex Moreno,Defender/Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,6,Elliott Anderson,Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,7,Nicolás Domínguez,Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,8,James Ward-Prowse,Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,9,Ryan Yates,Midfielder
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,10,Morgan Gibbs-White,Midfielder/Forward
+https://www.11v11.com/matches/liverpool-v-nottingham-forest-14-september-2024-385441/,2024-09-14,2024-25,Nottingham Forest,0,11,Chris Wood,Forward
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,1,Ederson,Goalkeeper
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,2,Manuel Akanji,Defender
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,3,Kyle Walker,Defender
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,4,Rico Lewis,Defender/Midfielder
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,5,John Stones,Defender/Midfielder
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,6,Ilkay Gündogan,Midfielder
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,7,Mateo Kovačić,Midfielder
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,8,Kevin De Bruyne,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,9,Jack Grealish,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,10,Sávio,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Manchester City,1,11,Erling Haaland,Forward
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,1,Mark Flekken,Goalkeeper
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,2,Nathan Collins,Defender
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,3,Ethan Pinnock,Defender
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,4,Sepp Van Den Berg,Defender
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,5,Kristoffer Ajer,Defender/Midfielder
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,6,Christian Norgaard,Defender/Midfielder
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,7,Keane Lewis-Potter,Defender/Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,8,Vitaly Janelt,Midfielder
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,9,Mikkel Damsgaard,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,10,Bryan Mbeumo,Midfielder/Forward
+https://www.11v11.com/matches/manchester-city-v-brentford-14-september-2024-385419/,2024-09-14,2024-25,Brentford,0,11,Yoane Wissa,Midfielder/Forward
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,1,Aaron Ramsdale,Goalkeeper
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,2,Jan Bednarek,Defender
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,3,Jack Stephens,Defender
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,4,Yukinari Sugawara,Defender
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,5,Kyle Walker-Peters,Defender/Midfielder
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,6,Flynn Downes,Midfielder
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,7,Mateus Fernandes,Midfielder
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,8,Lesley Ugochukwu,Midfielder
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,9,Tyler Dibling,Midfielder/Forward
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,10,Cameron Archer,Forward
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Southampton,1,11,Ben Brereton Diaz,Forward
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,1,André Onana,Goalkeeper
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,2,Matthijs de Ligt,Defender
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,3,Lisandro Martínez,Defender
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,4,Diogo Dalot,Defender/Midfielder
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,5,Noussair Mazraoui,Defender/Midfielder
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,6,Bruno Fernandes,Midfielder
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,7,Christian Eriksen,Midfielder
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,8,Kobbie Mainoo,Midfielder
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,9,Amad Diallo,Midfielder/Forward
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,10,Marcus Rashford,Midfielder/Forward
+https://www.11v11.com/matches/southampton-v-manchester-united-14-september-2024-385437/,2024-09-14,2024-25,Manchester United,0,11,Joshua Zirkzee,Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,1,Guglielmo Vicario,Goalkeeper
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,2,Cristian Romero,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,3,Micky van de Ven,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,4,Pedro Porro,Defender/Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,5,Destiny Udogie,Defender/Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,6,Rodrigo Bentancur,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,7,Dejan Kulusekvski,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,8,James Maddison,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,9,SON Heung-min,Midfielder/Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,10,Brennan Johnson,Midfielder/Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Tottenham Hotspur,1,11,Dominic Solanke,Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,1,David Raya,Goalkeeper
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,2,Gabriel,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,3,William Saliba,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,4,Jurriën Timber,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,5,Ben White,Defender
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,6,Thomas Partey,Defender/Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,7,Bukayo Saka,Defender/Midfielder/Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,8,Jorginho,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,9,Leandro Trossard,Midfielder
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,10,Kai Havertz,Midfielder/Forward
+https://www.11v11.com/matches/tottenham-hotspur-v-arsenal-15-september-2024-385417/,2024-09-15,2024-25,Arsenal,0,11,Gabriel Martinelli,Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,1,Sam Johnstone,Goalkeeper
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,2,Craig Dawson,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,3,Yerson Mosquera,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,4,Nélson Semedo,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,5,Rayan Aït Nouri,Defender/Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,6,Mario Lemina,Defender/Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,7,André,Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,8,Jean-Ricner Bellegarde,Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,9,João Gomes,Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,10,Matheus Cunha,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Wolverhampton Wanderers,1,11,Jørgen Strand Larsen,Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,1,Nick Pope,Goalkeeper
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,2,Dan Burn,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,3,Fabian Schär,Defender
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,4,Lewis Hall,Defender/Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,5,Tino Livramento,Defender/Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,6,Bruno Guimarães,Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,7,Jacob Murphy,Midfielder
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,8,Anthony Gordon,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,9,Joelinton,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,10,Sean Longstaff,Midfielder/Forward
+https://www.11v11.com/matches/wolverhampton-wanderers-v-newcastle-united-15-september-2024-385439/,2024-09-15,2024-25,Newcastle United,0,11,Alexander Isak,Forward

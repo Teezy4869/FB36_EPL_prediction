@@ -1,0 +1,314 @@
+source,source_name,canonical_team,season_start,season_end,is_premier_league,evidence
+football_data,Arsenal,Arsenal,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Arsenal Football Club; continuous Premier League member since 1992; stadium Emirates Stadium.
+11v11,Arsenal,Arsenal,2018-19,2025-26,True,11v11.com club profile title. Arsenal Football Club; continuous Premier League member since 1992; stadium Emirates Stadium.
+wikipedia,Arsenal,Arsenal,2018-19,2025-26,True,Wikipedia Premier League season article title. Arsenal Football Club; continuous Premier League member since 1992; stadium Emirates Stadium.
+football_data,Aston Villa,Aston Villa,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Aston Villa Football Club; promoted 2019-20; stadium Villa Park.
+11v11,Aston Villa,Aston Villa,2018-19,2025-26,True,11v11.com club profile title. Aston Villa Football Club; promoted 2019-20; stadium Villa Park.
+wikipedia,Aston Villa,Aston Villa,2018-19,2025-26,True,Wikipedia Premier League season article title. Aston Villa Football Club; promoted 2019-20; stadium Villa Park.
+football_data,Bournemouth,AFC Bournemouth,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. AFC Bournemouth; official club name includes AFC; 11v11 slug afc-bournemouth; stadium Dean Court / Vitality Stadium.
+11v11,AFC Bournemouth,AFC Bournemouth,2018-19,2025-26,True,11v11.com club profile title. AFC Bournemouth; official club name includes AFC; 11v11 slug afc-bournemouth; stadium Dean Court / Vitality Stadium.
+wikipedia,Bournemouth,AFC Bournemouth,2018-19,2025-26,True,Wikipedia Premier League season article title. AFC Bournemouth; official club name includes AFC; 11v11 slug afc-bournemouth; stadium Dean Court / Vitality Stadium.
+football_data,Brentford,Brentford,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Brentford Football Club; promoted 2021-22; stadium Gtech Community Stadium.
+11v11,Brentford,Brentford,2018-19,2025-26,True,11v11.com club profile title. Brentford Football Club; promoted 2021-22; stadium Gtech Community Stadium.
+wikipedia,Brentford,Brentford,2018-19,2025-26,True,Wikipedia Premier League season article title. Brentford Football Club; promoted 2021-22; stadium Gtech Community Stadium.
+football_data,Brighton,Brighton & Hove Albion,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Brighton & Hove Albion Football Club; Football-Data shortens to Brighton; 11v11 spells out 'and'; stadium Falmer Stadium / Amex.
+11v11,Brighton and Hove Albion,Brighton & Hove Albion,2018-19,2025-26,True,11v11.com club profile title. Brighton & Hove Albion Football Club; Football-Data shortens to Brighton; 11v11 spells out 'and'; stadium Falmer Stadium / Amex.
+wikipedia,Brighton & Hove Albion,Brighton & Hove Albion,2018-19,2025-26,True,Wikipedia Premier League season article title. Brighton & Hove Albion Football Club; Football-Data shortens to Brighton; 11v11 spells out 'and'; stadium Falmer Stadium / Amex.
+football_data,Burnley,Burnley,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Burnley Football Club; stadium Turf Moor.
+11v11,Burnley,Burnley,2018-19,2025-26,True,11v11.com club profile title. Burnley Football Club; stadium Turf Moor.
+wikipedia,Burnley,Burnley,2018-19,2025-26,True,Wikipedia Premier League season article title. Burnley Football Club; stadium Turf Moor.
+football_data,Cardiff,Cardiff City,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Cardiff City Football Club; participated 2018-19 season; Football-Data shortens to Cardiff; stadium Cardiff City Stadium.
+11v11,Cardiff City,Cardiff City,2018-19,2025-26,True,11v11.com club profile title. Cardiff City Football Club; participated 2018-19 season; Football-Data shortens to Cardiff; stadium Cardiff City Stadium.
+wikipedia,Cardiff City,Cardiff City,2018-19,2025-26,True,Wikipedia Premier League season article title. Cardiff City Football Club; participated 2018-19 season; Football-Data shortens to Cardiff; stadium Cardiff City Stadium.
+football_data,Chelsea,Chelsea,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Chelsea Football Club; continuous Premier League member; stadium Stamford Bridge.
+11v11,Chelsea,Chelsea,2018-19,2025-26,True,11v11.com club profile title. Chelsea Football Club; continuous Premier League member; stadium Stamford Bridge.
+wikipedia,Chelsea,Chelsea,2018-19,2025-26,True,Wikipedia Premier League season article title. Chelsea Football Club; continuous Premier League member; stadium Stamford Bridge.
+football_data,Crystal Palace,Crystal Palace,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Crystal Palace Football Club; continuous Premier League member in target window; stadium Selhurst Park.
+11v11,Crystal Palace,Crystal Palace,2018-19,2025-26,True,11v11.com club profile title. Crystal Palace Football Club; continuous Premier League member in target window; stadium Selhurst Park.
+wikipedia,Crystal Palace,Crystal Palace,2018-19,2025-26,True,Wikipedia Premier League season article title. Crystal Palace Football Club; continuous Premier League member in target window; stadium Selhurst Park.
+football_data,Everton,Everton,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Everton Football Club; continuous Premier League member; stadium Goodison Park / Hill Dickinson Stadium.
+11v11,Everton,Everton,2018-19,2025-26,True,11v11.com club profile title. Everton Football Club; continuous Premier League member; stadium Goodison Park / Hill Dickinson Stadium.
+wikipedia,Everton,Everton,2018-19,2025-26,True,Wikipedia Premier League season article title. Everton Football Club; continuous Premier League member; stadium Goodison Park / Hill Dickinson Stadium.
+football_data,Fulham,Fulham,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Fulham Football Club; stadium Craven Cottage.
+11v11,Fulham,Fulham,2018-19,2025-26,True,11v11.com club profile title. Fulham Football Club; stadium Craven Cottage.
+wikipedia,Fulham,Fulham,2018-19,2025-26,True,Wikipedia Premier League season article title. Fulham Football Club; stadium Craven Cottage.
+football_data,Huddersfield,Huddersfield Town,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Huddersfield Town Association Football Club; participated 2018-19; Football-Data shortens to Huddersfield; stadium John Smith's Stadium.
+11v11,Huddersfield Town,Huddersfield Town,2018-19,2025-26,True,11v11.com club profile title. Huddersfield Town Association Football Club; participated 2018-19; Football-Data shortens to Huddersfield; stadium John Smith's Stadium.
+wikipedia,Huddersfield Town,Huddersfield Town,2018-19,2025-26,True,Wikipedia Premier League season article title. Huddersfield Town Association Football Club; participated 2018-19; Football-Data shortens to Huddersfield; stadium John Smith's Stadium.
+football_data,Ipswich,Ipswich Town,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Ipswich Town Football Club; promoted 2024-25; Football-Data shortens to Ipswich; stadium Portman Road.
+11v11,Ipswich Town,Ipswich Town,2018-19,2025-26,True,11v11.com club profile title. Ipswich Town Football Club; promoted 2024-25; Football-Data shortens to Ipswich; stadium Portman Road.
+wikipedia,Ipswich Town,Ipswich Town,2018-19,2025-26,True,Wikipedia Premier League season article title. Ipswich Town Football Club; promoted 2024-25; Football-Data shortens to Ipswich; stadium Portman Road.
+football_data,Leeds,Leeds United,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Leeds United Football Club; promoted 2020-21; Football-Data shortens to Leeds; stadium Elland Road.
+11v11,Leeds United,Leeds United,2018-19,2025-26,True,11v11.com club profile title. Leeds United Football Club; promoted 2020-21; Football-Data shortens to Leeds; stadium Elland Road.
+wikipedia,Leeds United,Leeds United,2018-19,2025-26,True,Wikipedia Premier League season article title. Leeds United Football Club; promoted 2020-21; Football-Data shortens to Leeds; stadium Elland Road.
+football_data,Leicester,Leicester City,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Leicester City Football Club; Football-Data shortens to Leicester; stadium King Power Stadium.
+11v11,Leicester City,Leicester City,2018-19,2025-26,True,11v11.com club profile title. Leicester City Football Club; Football-Data shortens to Leicester; stadium King Power Stadium.
+wikipedia,Leicester City,Leicester City,2018-19,2025-26,True,Wikipedia Premier League season article title. Leicester City Football Club; Football-Data shortens to Leicester; stadium King Power Stadium.
+football_data,Liverpool,Liverpool,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Liverpool Football Club; continuous Premier League member; stadium Anfield.
+11v11,Liverpool,Liverpool,2018-19,2025-26,True,11v11.com club profile title. Liverpool Football Club; continuous Premier League member; stadium Anfield.
+wikipedia,Liverpool,Liverpool,2018-19,2025-26,True,Wikipedia Premier League season article title. Liverpool Football Club; continuous Premier League member; stadium Anfield.
+football_data,Luton,Luton Town,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Luton Town Football Club; participated 2023-24; Football-Data shortens to Luton; stadium Kenilworth Road.
+11v11,Luton Town,Luton Town,2018-19,2025-26,True,11v11.com club profile title. Luton Town Football Club; participated 2023-24; Football-Data shortens to Luton; stadium Kenilworth Road.
+wikipedia,Luton Town,Luton Town,2018-19,2025-26,True,Wikipedia Premier League season article title. Luton Town Football Club; participated 2023-24; Football-Data shortens to Luton; stadium Kenilworth Road.
+football_data,Man City,Manchester City,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Manchester City Football Club; Football-Data abbreviates as Man City; 11v11 slug manchester-city; stadium Etihad Stadium.
+11v11,Manchester City,Manchester City,2018-19,2025-26,True,11v11.com club profile title. Manchester City Football Club; Football-Data abbreviates as Man City; 11v11 slug manchester-city; stadium Etihad Stadium.
+wikipedia,Manchester City,Manchester City,2018-19,2025-26,True,Wikipedia Premier League season article title. Manchester City Football Club; Football-Data abbreviates as Man City; 11v11 slug manchester-city; stadium Etihad Stadium.
+football_data,Man United,Manchester United,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Manchester United Football Club; Football-Data abbreviates as Man United; 11v11 slug manchester-united; stadium Old Trafford.
+11v11,Manchester United,Manchester United,2018-19,2025-26,True,11v11.com club profile title. Manchester United Football Club; Football-Data abbreviates as Man United; 11v11 slug manchester-united; stadium Old Trafford.
+wikipedia,Manchester United,Manchester United,2018-19,2025-26,True,Wikipedia Premier League season article title. Manchester United Football Club; Football-Data abbreviates as Man United; 11v11 slug manchester-united; stadium Old Trafford.
+football_data,Newcastle,Newcastle United,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Newcastle United Football Club; Football-Data shortens to Newcastle; stadium St James' Park.
+11v11,Newcastle United,Newcastle United,2018-19,2025-26,True,11v11.com club profile title. Newcastle United Football Club; Football-Data shortens to Newcastle; stadium St James' Park.
+wikipedia,Newcastle United,Newcastle United,2018-19,2025-26,True,Wikipedia Premier League season article title. Newcastle United Football Club; Football-Data shortens to Newcastle; stadium St James' Park.
+football_data,Norwich,Norwich City,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Norwich City Football Club; Football-Data shortens to Norwich; stadium Carrow Road.
+11v11,Norwich City,Norwich City,2018-19,2025-26,True,11v11.com club profile title. Norwich City Football Club; Football-Data shortens to Norwich; stadium Carrow Road.
+wikipedia,Norwich City,Norwich City,2018-19,2025-26,True,Wikipedia Premier League season article title. Norwich City Football Club; Football-Data shortens to Norwich; stadium Carrow Road.
+football_data,Nott'm Forest,Nottingham Forest,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Nottingham Forest Football Club; Football-Data abbreviates as Nott'm Forest; stadium City Ground.
+11v11,Nottingham Forest,Nottingham Forest,2018-19,2025-26,True,11v11.com club profile title. Nottingham Forest Football Club; Football-Data abbreviates as Nott'm Forest; stadium City Ground.
+wikipedia,Nottingham Forest,Nottingham Forest,2018-19,2025-26,True,Wikipedia Premier League season article title. Nottingham Forest Football Club; Football-Data abbreviates as Nott'm Forest; stadium City Ground.
+football_data,Sheffield United,Sheffield United,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Sheffield United Football Club; stadium Bramall Lane.
+11v11,Sheffield United,Sheffield United,2018-19,2025-26,True,11v11.com club profile title. Sheffield United Football Club; stadium Bramall Lane.
+wikipedia,Sheffield United,Sheffield United,2018-19,2025-26,True,Wikipedia Premier League season article title. Sheffield United Football Club; stadium Bramall Lane.
+football_data,Southampton,Southampton,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Southampton Football Club; stadium St Mary's Stadium.
+11v11,Southampton,Southampton,2018-19,2025-26,True,11v11.com club profile title. Southampton Football Club; stadium St Mary's Stadium.
+wikipedia,Southampton,Southampton,2018-19,2025-26,True,Wikipedia Premier League season article title. Southampton Football Club; stadium St Mary's Stadium.
+football_data,Sunderland,Sunderland,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Sunderland Association Football Club; stadium Stadium of Light.
+11v11,Sunderland,Sunderland,2018-19,2025-26,True,11v11.com club profile title. Sunderland Association Football Club; stadium Stadium of Light.
+wikipedia,Sunderland,Sunderland,2018-19,2025-26,True,Wikipedia Premier League season article title. Sunderland Association Football Club; stadium Stadium of Light.
+football_data,Tottenham,Tottenham Hotspur,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Tottenham Hotspur Football Club; Football-Data shortens to Tottenham; stadium Wembley / Tottenham Hotspur Stadium.
+11v11,Tottenham Hotspur,Tottenham Hotspur,2018-19,2025-26,True,11v11.com club profile title. Tottenham Hotspur Football Club; Football-Data shortens to Tottenham; stadium Wembley / Tottenham Hotspur Stadium.
+wikipedia,Tottenham Hotspur,Tottenham Hotspur,2018-19,2025-26,True,Wikipedia Premier League season article title. Tottenham Hotspur Football Club; Football-Data shortens to Tottenham; stadium Wembley / Tottenham Hotspur Stadium.
+football_data,Watford,Watford,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Watford Football Club; stadium Vicarage Road.
+11v11,Watford,Watford,2018-19,2025-26,True,11v11.com club profile title. Watford Football Club; stadium Vicarage Road.
+wikipedia,Watford,Watford,2018-19,2025-26,True,Wikipedia Premier League season article title. Watford Football Club; stadium Vicarage Road.
+football_data,West Brom,West Bromwich Albion,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. West Bromwich Albion Football Club; participated 2020-21; Football-Data shortens to West Brom; stadium The Hawthorns.
+11v11,West Bromwich Albion,West Bromwich Albion,2018-19,2025-26,True,11v11.com club profile title. West Bromwich Albion Football Club; participated 2020-21; Football-Data shortens to West Brom; stadium The Hawthorns.
+wikipedia,West Bromwich Albion,West Bromwich Albion,2018-19,2025-26,True,Wikipedia Premier League season article title. West Bromwich Albion Football Club; participated 2020-21; Football-Data shortens to West Brom; stadium The Hawthorns.
+football_data,West Ham,West Ham United,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. West Ham United Football Club; Football-Data shortens to West Ham; stadium London Stadium.
+11v11,West Ham United,West Ham United,2018-19,2025-26,True,11v11.com club profile title. West Ham United Football Club; Football-Data shortens to West Ham; stadium London Stadium.
+wikipedia,West Ham United,West Ham United,2018-19,2025-26,True,Wikipedia Premier League season article title. West Ham United Football Club; Football-Data shortens to West Ham; stadium London Stadium.
+football_data,Wolves,Wolverhampton Wanderers,2018-19,2025-26,True,Football-Data.co.uk club nomenclature. Wolverhampton Wanderers Football Club; Football-Data shortens to Wolves; 11v11 slug wolverhampton-wanderers; stadium Molineux.
+11v11,Wolverhampton Wanderers,Wolverhampton Wanderers,2018-19,2025-26,True,11v11.com club profile title. Wolverhampton Wanderers Football Club; Football-Data shortens to Wolves; 11v11 slug wolverhampton-wanderers; stadium Molineux.
+wikipedia,Wolverhampton Wanderers,Wolverhampton Wanderers,2018-19,2025-26,True,Wikipedia Premier League season article title. Wolverhampton Wanderers Football Club; Football-Data shortens to Wolves; 11v11 slug wolverhampton-wanderers; stadium Molineux.
+11v11,1. FC Heidenheim,1. FC Heidenheim,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,1899 Hoffenheim,1899 Hoffenheim,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,AC Milan,AC Milan,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,AEK Athens,AEK Athens,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,AEK Larnaca,AEK Larnaca,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,AFC Fylde,AFC Fylde,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,AFC Wimbledon,AFC Wimbledon,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,AS Monaco,AS Monaco,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,AS Roma,AS Roma,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,AZ Alkmaar,AZ Alkmaar,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Aberdeen,Aberdeen,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Accrington Stanley,Accrington Stanley,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Ajax,Ajax,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Al Ain (UAE),Al Ain (UAE),2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Al Hilal (Saudi Arabia),Al Hilal (Saudi Arabia),2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Anderlecht,Anderlecht,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Astana,Astana,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Atalanta,Atalanta,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Athletic Bilbao,Athletic Bilbao,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Atletico Madrid,Atletico Madrid,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Atlético Madrid,Atlético Madrid,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Barcelona,Barcelona,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Barnsley,Barnsley,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Barrow,Barrow,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Bayer Leverkusen,Bayer Leverkusen,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Bayern Munchen,Bayern Munchen,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Bayern München,Bayern München,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Benfica,Benfica,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Beşiktaş,Beşiktaş,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Birmingham City,Birmingham City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Blackburn Rovers,Blackburn Rovers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Blackpool,Blackpool,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Bologna,Bologna,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Bolton Wanderers,Bolton Wanderers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Boreham Wood,Boreham Wood,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Borussia Dortmund,Borussia Dortmund,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Borussia Mönchengladbach,Borussia Mönchengladbach,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Bradford City,Bradford City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Bristol City,Bristol City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Bristol Rovers,Bristol Rovers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Bromley,Bromley,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Burton Albion,Burton Albion,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Cambridge United,Cambridge United,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Celtic,Celtic,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Charlton Athletic,Charlton Athletic,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Cheltenham Town,Cheltenham Town,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Chesterfield,Chesterfield,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Chorley,Chorley,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Club Brugge,Club Brugge,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Colchester United,Colchester United,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Coventry City,Coventry City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Crawley Town,Crawley Town,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Crewe Alexandra,Crewe Alexandra,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Crusaders,Crusaders,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Crvena Zvezda,Crvena Zvezda,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Derby County,Derby County,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Dinamo Zagreb,Dinamo Zagreb,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Djurgardens IF,Djurgardens IF,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Doncaster Rovers,Doncaster Rovers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Dundalk,Dundalk,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Dynamo Kiev,Dynamo Kiev,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Dynamo Kyiv,Dynamo Kyiv,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Eintracht Frankfurt,Eintracht Frankfurt,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Elfsborg,Elfsborg,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Espanyol,Espanyol,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Esperance Sportive de Tunis,Esperance Sportive de Tunis,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Exeter City,Exeter City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC BATE Borisov,FC BATE Borisov,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Basel,FC Basel,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Kairat Almaty,FC Kairat Almaty,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Kobenhavn,FC Kobenhavn,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Krasnodar,FC Krasnodar,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC København,FC København,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Midtjylland,FC Midtjylland,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Noah,FC Noah,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Porto,FC Porto,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Sheriff Tiraspol,FC Sheriff Tiraspol,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Twente,FC Twente,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Utrecht,FC Utrecht,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Zorya Luhansk,FC Zorya Luhansk,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FC Zurich,FC Zurich,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FCSB,FCSB,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FK Bodo Glimt,FK Bodo Glimt,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FK Qarabag Agdam,FK Qarabag Agdam,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FK Qarabağ Agdam,FK Qarabağ Agdam,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,FK TSC Backa Topola,FK TSC Backa Topola,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Fenerbahce,Fenerbahce,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Ferencvaros,Ferencvaros,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Feyenoord,Feyenoord,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Fiorentina,Fiorentina,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Flamengo,Flamengo,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Fleetwood Town,Fleetwood Town,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Fluminense,Fluminense,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Forest Green Rovers,Forest Green Rovers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Fredrikstad,Fredrikstad,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Galatasaray,Galatasaray,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Gillingham,Gillingham,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Girona,Girona,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Go Ahead Eagles,Go Ahead Eagles,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Granada,Granada,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Grimsby Town,Grimsby Town,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,HSK Zrinjski Mostar,HSK Zrinjski Mostar,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Harrogate Town,Harrogate Town,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Hartlepool United,Hartlepool United,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Hibernian,Hibernian,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Hull City,Hull City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Internazionale,Internazionale,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Juventus,Juventus,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,KAA Gent,KAA Gent,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,KF Shkëndija,KF Shkëndija,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Kidderminster Harriers,Kidderminster Harriers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Kuopion Palloseura,Kuopion Palloseura,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,LASK Linz,LASK Linz,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Legia Warszawa,Legia Warszawa,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Leyton Orient,Leyton Orient,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Lille OSC,Lille OSC,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Lincoln City,Lincoln City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Lokomotiv Plovdiv,Lokomotiv Plovdiv,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Los Angeles FC,Los Angeles FC,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Maccabi Haifa,Maccabi Haifa,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Maccabi Tel Aviv,Maccabi Tel Aviv,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Macclesfield,Macclesfield,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Macclesfield Town,Macclesfield Town,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Malmo FF,Malmo FF,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Malmö FF,Malmö FF,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Mansfield Town,Mansfield Town,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Marine,Marine,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Middlesbrough,Middlesbrough,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Millwall,Millwall,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Milton Keynes Dons,Milton Keynes Dons,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Molde,Molde,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Monterrey,Monterrey,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Morecambe,Morecambe,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,NS Mura,NS Mura,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Napoli,Napoli,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Newport County,Newport County,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Oldham Athletic,Oldham Athletic,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Olympiakos,Olympiakos,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Olympique Lyonnais,Olympique Lyonnais,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Olympique Marseille,Olympique Marseille,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Omonia Nicosia,Omonia Nicosia,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Oxford United,Oxford United,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,PAOK Salonika,PAOK Salonika,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,PFC Ludogorets Razgrad,PFC Ludogorets Razgrad,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,PSV Eindhoven,PSV Eindhoven,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Pafos,Pafos,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Palmeiras,Palmeiras,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Panathinaikos,Panathinaikos,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Paris St Germain,Paris St Germain,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Partizan Belgrade,Partizan Belgrade,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Paços de Ferreira,Paços de Ferreira,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Peterborough United,Peterborough United,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Plymouth Argyle,Plymouth Argyle,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Port Vale,Port Vale,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Portsmouth,Portsmouth,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Preston North End,Preston North End,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Pyunik,Pyunik,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Queens Park Rangers,Queens Park Rangers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,RB Leipzig,RB Leipzig,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,RC Genk,RC Genk,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,RC Lens,RC Lens,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Randers FC,Randers FC,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Rangers,Rangers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Rapid Wien,Rapid Wien,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Rayo Vallecano,Rayo Vallecano,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Reading,Reading,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Real Betis,Real Betis,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Real Madrid,Real Madrid,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Real Sociedad,Real Sociedad,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Red Bull Salzburg,Red Bull Salzburg,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Rennes,Rennes,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Rochdale,Rochdale,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Rotherham United,Rotherham United,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Royal Antwerp,Royal Antwerp,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,SC Freiburg,SC Freiburg,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Salford City,Salford City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Schalke 04,Schalke 04,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Servette,Servette,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Sevilla,Sevilla,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Shakhtar Donetsk,Shakhtar Donetsk,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Shamrock Rovers,Shamrock Rovers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Sheffield Wednesday,Sheffield Wednesday,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Shelbourne,Shelbourne,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Shrewsbury Town,Shrewsbury Town,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Silkeborg,Silkeborg,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Slavia Praha,Slavia Praha,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Slovan Bratislava,Slovan Bratislava,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Sparta Praha,Sparta Praha,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Spartak Moscow,Spartak Moscow,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Sporting Braga,Sporting Braga,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Sporting Clube Portugal,Sporting Clube Portugal,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Standard Liège,Standard Liège,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Stevenage,Stevenage,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Stockport County,Stockport County,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Stoke City,Stoke City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Strasbourg,Strasbourg,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Sturm Graz,Sturm Graz,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Swansea City,Swansea City,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Swindon Town,Swindon Town,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Tamworth,Tamworth,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Torino,Torino,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Toulouse,Toulouse,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Tranmere Rovers,Tranmere Rovers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Union St Gilloise,Union St Gilloise,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Urawa Red Diamonds,Urawa Red Diamonds,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Valencia,Valencia,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Viborg FF,Viborg FF,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Videoton,Videoton,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Viktoria Plzen,Viktoria Plzen,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Villarreal,Villarreal,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Vitesse Arnhem,Vitesse Arnhem,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Vitória Guimarães,Vitória Guimarães,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Vorskla Poltava,Vorskla Poltava,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Walsall,Walsall,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Wigan Athletic,Wigan Athletic,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Woking,Woking,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Wolfsberger AC,Wolfsberger AC,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Wrexham,Wrexham,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Wycombe Wanderers,Wycombe Wanderers,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Wydad Casablanca,Wydad Casablanca,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Young Boys Berne,Young Boys Berne,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,Zenit St Petersburg,Zenit St Petersburg,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."
+11v11,İstanbul Başakşehir,İstanbul Başakşehir,2018-19,2025-26,False,"Non-Premier League opponent in 11v11 domestic/European cup fixtures (FA Cup, EFL Cup, UEFA)."

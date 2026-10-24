@@ -1,0 +1,62 @@
+{
+  "artifact": "rf_train_only.joblib",
+  "train_rows": 2280,
+  "train_seasons": [
+    "2018-19",
+    "2019-20",
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "feature_columns": [
+    "home_matches_available_last_5",
+    "away_matches_available_last_5",
+    "home_points_avg_last_5",
+    "away_points_avg_last_5",
+    "home_goal_diff_last_5",
+    "away_goal_diff_last_5",
+    "home_days_since_last_match",
+    "away_days_since_last_match",
+    "home_matches_last_7_days",
+    "away_matches_last_7_days",
+    "is_promoted_home",
+    "is_promoted_away"
+  ],
+  "label_order": [
+    "H",
+    "D",
+    "A"
+  ],
+  "model_classes_order": [
+    "A",
+    "D",
+    "H"
+  ],
+  "imputer_strategy": "median",
+  "rf_explicit_params": {
+    "n_estimators": 100,
+    "max_depth": 8,
+    "min_samples_leaf": 5,
+    "random_state": 42,
+    "n_jobs": -1
+  },
+  "rf_other_params": "scikit-learn defaults",
+  "fit_seconds": 0.326516,
+  "python_version": "3.12.10",
+  "scikit_learn_version": "1.9.1",
+  "input_sha256": {
+    "prematch_features.csv": "44fb34abebf74bdcdfd30b9ab8c0dd04f2351da503025bee532311f301203083",
+    "split_manifest.csv": "3b9efe26c0051d86a8f350355985478c702aad7c410228a34fe6ad1ed4851f6a"
+  },
+  "smoke_check": {
+    "source": "first three train rows only",
+    "probability_columns": [
+      "H",
+      "D",
+      "A"
+    ],
+    "rows": 3,
+    "sums_close_to_one": true
+  }
+}

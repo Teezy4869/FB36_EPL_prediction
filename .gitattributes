@@ -1,0 +1,6 @@
+# Preserve byte-exact audited inputs and locked model artifacts across clones.
+data/cleaned/*.csv -text
+data/model/*.csv -text
+data/model/*.json -text
+models/*.json -text
+models/*.joblib binary

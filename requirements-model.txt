@@ -1,0 +1,9 @@
+# Tested with Python 3.12.10 in .venv for Phase 03/08.
+# Direct model-data, preprocessing, training, and model-save dependencies.
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.1
+joblib==1.6.0
+# scikit-learn transitive runtime versions installed during the check:
+# scipy==1.18.1, threadpoolctl==3.7.0, narwhals==2.27.1,
+# cloudpickle==3.1.2. pip resolves these from scikit-learn/joblib.

@@ -1,0 +1,14 @@
+{
+  "home_matches_available_last_5": 5,
+  "away_matches_available_last_5": 5,
+  "home_points_avg_last_5": 3.0,
+  "away_points_avg_last_5": 1.0,
+  "home_goal_diff_last_5": 9,
+  "away_goal_diff_last_5": 0,
+  "home_days_since_last_match": 4,
+  "away_days_since_last_match": 5,
+  "home_matches_last_7_days": 2,
+  "away_matches_last_7_days": 1,
+  "is_promoted_home": 0,
+  "is_promoted_away": 0
+}

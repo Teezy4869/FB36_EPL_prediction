@@ -1,0 +1,61 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & linters
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Logs
+logs/*.log
+!logs/.gitkeep
+
+# Local crawl archive (large, regenerable; curated CSVs are tracked)
+data/raw/
+
+# Internal task prompts are not project deliverables
+prompts_antigravity/
+prompts_codex_train_toi_gian/
+PROMPTS_*.md
+
+# Environment variables & secrets
+.env
+.env.local
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and local cache
+*.tmp
+.cache/
+data/raw/cache/

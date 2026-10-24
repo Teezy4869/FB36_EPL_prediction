@@ -1,0 +1,86 @@
+{
+  "phase": "08/08",
+  "model_path": "models/premier_league_hda.joblib",
+  "model_sha256": "931cf900c28e24531da8d75f4807b60f86a0c8c0ef770a095d24b6974990f09b",
+  "feature_columns": [
+    "home_matches_available_last_5",
+    "away_matches_available_last_5",
+    "home_points_avg_last_5",
+    "away_points_avg_last_5",
+    "home_goal_diff_last_5",
+    "away_goal_diff_last_5",
+    "home_days_since_last_match",
+    "away_days_since_last_match",
+    "home_matches_last_7_days",
+    "away_matches_last_7_days",
+    "is_promoted_home",
+    "is_promoted_away"
+  ],
+  "label_order": ["H", "D", "A"],
+  "label_meaning": {
+    "H": "chủ nhà thắng",
+    "D": "hòa",
+    "A": "đội khách thắng"
+  },
+  "model_classes_order": ["A", "D", "H"],
+  "pipeline_steps": ["schema", "imputer", "classifier"],
+  "imputer_strategy": "median",
+  "random_forest_params": {
+    "n_estimators": 100,
+    "max_depth": 8,
+    "min_samples_leaf": 5,
+    "random_state": 42,
+    "n_jobs": -1
+  },
+  "other_random_forest_params": "scikit-learn defaults; full parameter snapshot in models/model_lock.json",
+  "seed": 42,
+  "versions": {
+    "python": "3.12.10",
+    "scikit_learn": "1.9.1",
+    "numpy": "2.5.4",
+    "pandas": "3.1.0",
+    "joblib": "1.6.0"
+  },
+  "input_sha256": {
+    "prematch_features.csv": "44fb34abebf74bdcdfd30b9ab8c0dd04f2351da503025bee532311f301203083",
+    "split_manifest.csv": "3b9efe26c0051d86a8f350355985478c702aad7c410228a34fe6ad1ed4851f6a"
+  },
+  "fit_seasons": [
+    "2018-19", "2019-20", "2020-21", "2021-22",
+    "2022-23", "2023-24", "2024-25"
+  ],
+  "fit_rows": 2660,
+  "validation_season": "2024-25",
+  "test_season": "2025-26",
+  "reported_metrics": {
+    "validation": {
+      "source_report": "reports/model_validation.md",
+      "evaluated_model": "models/rf_train_only.joblib",
+      "evaluated_rows": 380,
+      "macro_f1": 0.377725,
+      "accuracy": 0.507895,
+      "per_class": {
+        "H": {"precision": 0.485075, "recall": 0.838710, "f1": 0.614657, "support": 155},
+        "D": {"precision": 0.0, "recall": 0.0, "f1": 0.0, "support": 93},
+        "A": {"precision": 0.567568, "recall": 0.477273, "f1": 0.518519, "support": 132}
+      },
+      "confusion_matrix_hda": [[130, 1, 24], [69, 0, 24], [69, 0, 63]]
+    },
+    "test": {
+      "source_report": "reports/model_test.md",
+      "evaluated_model": "models/premier_league_hda.joblib",
+      "evaluated_rows": 380,
+      "macro_f1": 0.353406,
+      "accuracy": 0.484211,
+      "per_class": {
+        "H": {"precision": 0.496350, "recall": 0.839506, "f1": 0.623853, "support": 162},
+        "D": {"precision": 0.0, "recall": 0.0, "f1": 0.0, "support": 104},
+        "A": {"precision": 0.452830, "recall": 0.421053, "f1": 0.436364, "support": 114}
+      },
+      "confusion_matrix_hda": [[136, 0, 26], [72, 0, 32], [66, 0, 48]]
+    }
+  },
+  "metrics_are_copied_from_reports": true,
+  "probabilities_calibrated": false,
+  "lock_path": "models/model_lock.json"
+}
