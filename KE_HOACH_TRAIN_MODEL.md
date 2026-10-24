@@ -1,6 +1,6 @@
 # Kế hoạch train model tối giản dự đoán kết quả Premier League
 
-Cập nhật: 24/10/2026. Đây là kế hoạch áp dụng cho giai đoạn sau crawl. Các số liệu bên dưới được đối chiếu trực tiếp với hai CSV trong data/model. Chưa train model nên chưa có độ chính xác thực tế.
+Cập nhật: 24/10/2026. Đây là kế hoạch đã chốt trước khi huấn luyện, áp dụng cho giai đoạn sau crawl. Các số liệu đầu vào được đối chiếu trực tiếp với hai CSV trong `data/model`. Quy trình đã hoàn tất; kết quả thực tế nằm trong `reports/model_validation.md` và `reports/model_test.md`.
 
 ## 1. Mục tiêu và phạm vi
 
